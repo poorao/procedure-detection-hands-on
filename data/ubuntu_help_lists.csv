@@ -1,0 +1,1333 @@
+,Page_title,Subtitle,Lists,Context,List_tags
+0,How do I calibrate my camera?,More Information,Calibration,More Information,0
+1,How do I calibrate my camera?,See Also,"How do I calibrate my printer? — Calibrating your printer is important to print accurate colors. <st> How do I calibrate my scanner? — Calibrating your scanner is important to capture accurate colors. <st> How do I calibrate my screen? — Calibrating your screen is important to display accurate
+    colors. <st> Which target types are supported? — Calibration targets are needed to do scanner and camera profiling.",See Also,0
+3,Control location services,Turn off the geolocation features of your desktop,"Open the Activities overview and
+      start typing Privacy . <st> Click on Privacy to open the panel. <st> Set the Location Services switch to OFF . To re-enable this feature, set the Location Services switch
+     to ON .",Turn off the geolocation features of your desktop,1
+4,Files list columns preferences,Files list columns preferences,"The first character is the file type. - means regular
+          file and d means directory (folder). In rare cases, other
+          characters can also be shown. <st> The next three characters rwx specify permissions for
+          the user who owns the file. <st> The next three rw- specify permissions for all members
+          of the group that owns the file. <st> The last three characters in the column r-- specify
+          permissions for all other users on the system.",drwxrw-r--,0
+5,Files list columns preferences,Files list columns preferences,"r : readable, meaning that you can open the file or
+          folder <st> w : writable, meaning that you can save changes to it <st> x : executable, meaning that you can run it if it is a
+          program or script file, or you can access subfolders and files if it
+          is a folder <st> - : permission not set",Each permission has the following meanings:,0
+8,Change which mail application is used to write emails,Change which mail application is used to write emails,"Open the Activities overview and
+      start typing Details . <st> Click on Details to open the panel. <st> Choose Default Applications from the list on the left side
+      of the window. <st> Choose which email client you would like to be used by default by
+      changing the Mail option.","When you click a button or link to send a new email (for example, in your
+  word processing application), your default mail application will open up with
+  a blank message, ready for you to write. However, if you have more than one
+  mail application installed, the wrong mail application might open up. You
+  can fix this by changing which one is the default email application:",1
+10,Change which web browser opens websites by default,Change which web browser opens websites by default,"Open the Activities overview and
+      start typing Details . <st> Click on Details to open the panel. <st> Choose Default Applications from the list on the left side
+      of the window. <st> Choose which web browser you would like to open links by
+      changing the Web option.","When you click a link to a web page in any application, a web browser will
+  automatically open up to that page. However, if you have more than one
+  browser installed, the page may not open up in the browser you wanted it to
+  open in. To fix this, change the default web browser:",1
+11,Mouse pointer is not moving,Mouse pointer is not moving,Check that the mouse is plugged in <st> Check that the mouse actually works <st> Checking wireless mice,Mouse pointer is not moving,1
+12,Mouse pointer is not moving,Checking wireless mice,"Make sure the mouse is turned on. There is often a switch on the
+      bottom of the mouse to turn the mouse off completely, so you can take it
+      with you without it constantly waking up. <st> If you are using a Bluetooth mouse, make sure you have actually paired the
+   mouse with your computer. See Connect your computer to a Bluetooth device . <st> Click a button and see if the mouse pointer moves now. Some wireless mice go
+   to sleep to save power, so might not respond until you click a button.
+   See Mouse reacts with delay before it starts working . <st> Check that the battery of the mouse is charged. <st> Make sure that the receiver (dongle) is firmly plugged in to the computer. <st> If your mouse and receiver can operate on different radio channels, make
+   sure that they are both set to the same channel. <st> You may need to press a button on the mouse, receiver or both to establish
+   a connection. The instruction manual of your mouse should have more details
+   if this is the case.",Checking wireless mice,1
+13,Mouse pointer is not moving,More Information,Common mouse problems,More Information,0
+14,Connect to a hidden wireless network,More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+15,Connect to a hidden wireless network,See Also,"I can’t see my wireless network in the list — The wireless could be turned off or broken, or you may be trying to
+    connect to a hidden network.",See Also,0
+16,Connect to a hidden wireless network,Connect to a hidden wireless network,"Open the system menu from the right
+    side of the top bar. <st> Select Wi-Fi Not Connected . The Wi-Fi section of the menu will expand. <st> Click Wi-Fi Settings . <st> Click the Connect to Hidden Network… button. <st> In the window that appears, select a previously-connected hidden network
+  using the Connection drop-down list, or New for a new
+  one. <st> For a new connection, type the network name and choose the type of
+  wireless security from the Wi-Fi security drop-down list. <st> Enter the password or other security details. <st> Click Connect .",Network,1
+17,Do I need anti-virus software?,More Information,"Keeping safe on the internet — Antivirus software , basic firewalls , firewall ports …",More Information,0
+18,Do I need anti-virus software?,See Also,"Do I need to scan my emails for viruses? — Viruses are unlikely to infect your computer, but could infect the
+    computers of people you email.",See Also,0
+19,Middle-click,Middle-click,"In the Activities overview, you can quickly open a new
+  window for an application with middle-click. Simply middle-click on the
+  application’s icon, either in the dash on the left, or in the applications
+  overview. The applications overview is displayed using the grid button in the
+  dash. <st> Most web browsers allow you to open links in tabs quickly with the
+  middle mouse button. Just click any link with your middle mouse button, and
+  it will open in a new tab. <st> In the file manager, middle-click serves two roles. If you
+  middle-click a folder, it will open in a new tab. This mimics the
+  behavior of popular web browsers. If you middle-click a file, it
+  will open the file, just as if you had double-clicked.",Many applications use middle-click for advanced click shortcuts.,0
+20,Middle-click,More Information,"Mouse tips <st> Tips & tricks — Special characters , middle click shortcuts …",More Information,0
+21,What is an IP address?,More Information,"Networking terms & tips — Find your IP address , WEP & WPA security , MAC addresses , proxies …",More Information,0
+22,What is an IP address?,See Also,Find your IP address — Knowing your IP address can help you troubleshoot network problems.,See Also,0
+23,Add a new user account,More Information,Manage user accounts,More Information,0
+24,Add a new user account,See Also,Delete a user account — Remove users that no longer use your computer.,See Also,0
+25,Add a new user account,Add a new user account,"Open the Activities overview and
+      start typing Users . <st> Click on Users to open the panel. <st> Press Unlock in the top right corner and
+      type in your password when prompted. <st> Press the + button, below the list of
+      accounts on the left, to add a new user account. <st> If you want the new user to have administrative access to the
+      computer, select Administrator for the account type. Administrators can do things like add and delete users, install software
+      and drivers, and change the date and time. <st> Enter the new user’s full name. The username will be filled in
+      automatically based on the full name. If you do not like the proposed
+      username, you can change it. <st> You can choose to set a password for the new user, or let them set it
+      themselves on their first login. If you choose to set the password now,
+      you can press the icon to
+      automatically generate a random password. <st> Click Add .",administrator privileges,1
+26,"Log out, power off or switch users",See Also,"Automatically lock your screen — Prevent other people from using your desktop when you
+    go away from your computer. <st> The screen locks itself too quickly — Change how long to wait before locking the screen in the Privacy settings.",See Also,0
+27,"Log out, power off or switch users",See Also,Set up automatic suspend — Configure your computer to suspend automatically. <st> Use less power and improve battery life — Tips to reduce the power consumption of your computer. <st> What happens when I suspend my computer? — Suspend sends your computer to sleep so it uses less power.,See Also,0
+28,"Log out, power off or switch users",See Also,Use less power and improve battery life — Tips to reduce the power consumption of your computer.,See Also,0
+29,"Log out, power off or switch users",More Information,"Power & battery — Battery status , suspend , screen dimming … <st> Ubuntu Desktop Guide <st> Your desktop — Calendar , notifications , keyboard shortcuts , windows and workspaces …",More Information,0
+30,"Log out, power off or switch users",See Also,Log in automatically — Set up automatic login for when you switch on your computer.,See Also,0
+31,"Cancel, pause or release a print job",More Information,"Printer problems — Undetected printers, paper jams, print-outs that look wrong…",More Information,0
+32,"Cancel, pause or release a print job",How to cancel a print job:,"Open the Activities overview and
+      start typing Printers . <st> Click Printers to open the panel. <st> Click the Show Jobs button on the right-hand side of the Printers dialog. <st> Cancel the print job by clicking the stop button.",How to cancel a print job:,1
+33,"Cancel, pause or release a print job",Pause and release a print job,"Open the Activities overview and
+      start typing Printers . <st> Click Printers to open the panel. <st> Click the Show Jobs button on the right-hand side of the Printers dialog and either pause or release the print job
+      based on your needs.","If you want to pause or release a print job, you can do so by going to the
+  jobs dialog in the printer settings and click the appropriate button.",1
+34,Simulate clicking by hovering,More Information,"Mobility impairments <st> Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+35,Simulate clicking by hovering,Simulate clicking by hovering,"Open the Activities overview and
+      start typing Universal Access . <st> Click on Universal Access to open the panel. <st> Press Click Assist in the Pointing &
+      Clicking section. <st> Switch Hover Click to ON .",Hover Click,1
+36,Where do I get color profiles?,More Information,Color profiles,More Information,0
+37,Where do I get color profiles?,See Also,"How do I test if color management is working correctly? — Use the supplied test profiles to check that your profiles are being
+    applied correctly to your screen. <st> Missing information for whole-screen color correction? — Whole-screen color correction modifies all the screen colors on all windows. <st> What is a color profile? — A color profile is a simple file that expresses a color space or device response. <st> Why do I need to do calibration myself? — Calibrating is important if you care about the colors you display or print.",See Also,0
+38,Log in automatically,More Information,Manage user accounts,More Information,0
+39,Log in automatically,See Also,"Log out, power off or switch users — Learn how to leave your user account, by logging out, switching
+    users, and so on.",See Also,0
+40,Log in automatically,Log in automatically,"Open the Activities overview and
+      start typing Users . <st> Click Users to open the panel. <st> Select the user account that you want to log in to automatically at
+      startup. <st> Press Unlock and enter your password. <st> Toggle the Automatic Login switch to ON .","You can change your settings so that you are automatically logged in to
+  your account when you start up your computer:",1
+41,Songs don’t appear on my iPod when I copy them onto it,More Information,Music and players,More Information,0
+42,Link and unlink contacts,More Information,Contacts — Access your contacts.,More Information,0
+43,Link and unlink contacts,Link contacts,"Enable selection mode by pressing the tick button above the
+      contact list. <st> A checkbox will appear next to each contact. Tick the checkboxes next
+      to the contacts that you want to merge. <st> Press Link to link the selected
+      contacts.",Contacts,1
+44,Link and unlink contacts,Unlink contacts,"Select the contact you wish to unlink from your list of contact. <st> Press Edit in the top-right corner of Contacts . <st> Press Linked Accounts . <st> Press Unlink to unlink the entry from the
+      contact. <st> Close the window once you have finished unlinking the entries. <st> Press Done to finish editing the
+      contact.","You may want to unlink contacts if you accidentally linked contacts which
+  should not be linked.",1
+45,Other users can’t connect to the internet,More Information,"Network problems — Troubleshooting wireless connections , finding your wifi network …",More Information,0
+46,Other users can’t connect to the internet,See Also,Other users can’t edit the network connections — You need to uncheck the Available to all users option in the network connection settings.,See Also,0
+47,Other users can’t connect to the internet,Other users can’t connect to the internet,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Select Wi-Fi from the list on the left. <st> Click the button to open the connection
+      details. <st> Select Identity from the pane on the left. <st> At the bottom of the Identity panel, check the Make
+      available to other users option to allow other users to use the
+      network connection. <st> Press Apply to save the changes.","When you set up a network connection, all other users on your computer
+  will normally be able to use it. If the connection information is not shared,
+  you should check the connection settings.",1
+48,Change your timezone,More Information,"Date & time — Set date and time , world clocks , timezone , calendar and appointments …",More Information,0
+49,Change your timezone,Change your timezone,"Open the Activities overview and start typing Date & Time . <st> Click on Date & Time to open the panel. <st> If you have Automatic Time Zone set to ON , your
+      time zone should update automatically if you have an internet
+      connection and the location services feature is enabled. To update your time zone manually, set this to OFF . <st> Click Time Zone , then select your location on the map or
+      search for your current city.",Change your timezone,1
+50,"Click, drag, or scroll with the touchpad",Tap to click,"To click, tap on the touchpad. <st> To double-click, tap twice. <st> To drag an item, double-tap but don’t lift your finger after the
+      second tap. Drag the item where you want it, then lift your finger to
+      drop. <st> If your touchpad supports multi-finger taps, right-click by tapping
+      with two fingers at once. Otherwise, you still need to use hardware
+      buttons to right-click. See Simulate a right mouse click for a method
+      of right-clicking without a second mouse button. <st> If your touchpad supports multi-finger taps, middle-click by tapping with three
+      fingers at once.",Touchpad,0
+51,"Click, drag, or scroll with the touchpad",More Information,"Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+52,"Click, drag, or scroll with the touchpad",Tap to click,"Open the Activities overview and
+      start typing Mouse & Touchpad . <st> Click on Mouse & Touchpad to open the panel. <st> In the Touchpad section, check Tap to click . The Touchpad section only appears if your system has a
+        touchpad.",You can tap your touchpad to click instead of using a button.,1
+53,"Click, drag, or scroll with the touchpad",Two finger scroll,"Open the Activities overview and
+      start typing Mouse & Touchpad . <st> Click on Mouse & Touchpad to open the panel. <st> In the Touchpad section, check Two finger
+      scroll .",You can scroll using your touchpad using two fingers.,1
+54,"Click, drag, or scroll with the touchpad",Natural scrolling,"Open the Activities overview and
+      start typing Mouse & Touchpad . <st> Click on Mouse & Touchpad to open the panel. <st> In the Touchpad section, check Natural
+      scrolling .","You can drag content as if sliding a physical piece of paper using the
+  touchpad.",1
+55,Why does my wireless network keep disconnecting?,More Information,"Network problems — Troubleshooting wireless connections , finding your wifi network … <st> Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+56,Why does my wireless network keep disconnecting?,See Also,Connect to a wireless network — Get on the internet — wirelessly.,See Also,0
+57,Connect to mobile broadband,More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+58,Connect to mobile broadband,Connect to mobile broadband,"If you do not have a built-in 3G modem, connect your phone or
+    Internet stick to a USB port on your computer. <st> Open the system menu from the right
+    side of the top bar. <st> Select Mobile Broadband Off . The Mobile Broadband section of
+      the menu will expand. If Mobile Broadband does not appear in the system
+        status menu, ensure that your device is not set to connect as Mass
+        Storage. <st> Select Connect . If you are connecting for the first
+    time, the Set up a Mobile Broadband Connection wizard is
+    launched. The opening screen displays a list of required information. Click Next . <st> Choose your provider’s country or region from the list. Click Next . <st> Choose your provider from the list. Click Next . <st> Select a plan according to the type of device you are
+    connecting. This will determine the Access Point Name. Click Next . <st> Confirm the settings you have selected by clicking Apply . The wizard will close and the Network panel will display the properties of your
+    connection.","You can set up a connection to a cellular (3G) network with your
+  computer’s built-in 3G modem, your mobile phone, or an Internet stick.",1
+59,Define proxy settings,More Information,"Networking terms & tips — Find your IP address , WEP & WPA security , MAC addresses , proxies …",More Information,0
+60,Define proxy settings,Change proxy method,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Select Network proxy from the list on the left. <st> Choose which proxy method you want to use from: None The applications will use a direct connection to fetch the content
+          from the web. Manual For each proxied protocol, define the address of a proxy and port
+          for the protocols. The protocols are HTTP , HTTPS , FTP and SOCKS . Automatic A URL pointing to a resource, which contains the appropriate
+          configuration for your system.",Change proxy method,1
+61,How do I calibrate my scanner?,More Information,Calibration,More Information,0
+62,How do I calibrate my scanner?,See Also,"How do I calibrate my camera? — Calibrating your camera is important to capture accurate colors. <st> How do I calibrate my printer? — Calibrating your printer is important to print accurate colors. <st> How do I calibrate my screen? — Calibrating your screen is important to display accurate
+    colors. <st> Which target types are supported? — Calibration targets are needed to do scanner and camera profiling.",See Also,0
+63,How do I calibrate my scanner?,How do I calibrate my scanner?,"Make sure your scanner is connected to your computer with a cable or
+      over the network. <st> Scan your calibration target and save it as an uncompressed TIFF
+      file. <st> Open the Activities overview and
+      start typing Settings . <st> Click on Settings . <st> Click Devices in the sidebar. <st> Click Color in the sidebar to open the panel. <st> Select your scanner. <st> Press Calibrate… to commence the
+      calibration.","If you want your scanner to represent the color accurately in scans, you
+  should calibrate it.",1
+64,I can’t play the songs I bought from an online music store,More Information,Music and players,More Information,0
+65,Purge trash & temporary files,More Information,"More file-related tasks <st> Privacy Settings — Screen lock , Usage history , Purge trash & temporary files …",More Information,0
+66,Purge trash & temporary files,Automatically empty your trash and clear temporary files,"Open the Activities overview and
+      start typing Privacy . <st> Click on Privacy to open the panel. <st> Select Purge Trash & Temporary Files . <st> Set one or both of the Automatically empty Trash or Automatically purge Temporary Files switches to ON . <st> Set how often you would like your Trash and Temporary Files to be purged by changing the Purge After value. <st> Use the Empty Trash or Purge Temporary Files buttons to perform these actions immediately.",Automatically empty your trash and clear temporary files,1
+67,Change your password,More Information,Passwords,More Information,0
+68,Change your password,See Also,"Choose a secure password — Use longer, more complicated passwords. <st> How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system.",See Also,0
+69,Change your password,Change your password,"Open the Activities overview and
+      start typing Users . <st> Click Users to open the panel. <st> Click the label ····· next to Password . If you
+      are changing the password for a different user, you will first need to Unlock the panel. <st> Enter your current password, then a new password. Enter your new
+      password again in the Verify New Password field. You can press the icon to
+      automatically generate a random password. <st> Click Change .",administrator privileges,1
+70,Connect another monitor to your computer,More Information,"Display & screen — Background , size and rotation ,
+      brightness…",More Information,0
+71,Connect another monitor to your computer,Set up an additional monitor,"Open the Activities overview and
+      start typing Displays . <st> Click on Displays to open the panel. <st> Click on the monitor that you would like to activate or deactivate,
+      then in the list of monitor configuration select Turn Off to
+      deactivate the monitor, or one of Primary , Secondary , or Mirror to activate it. The primary monitor is the one with the top bar , and where the Activities overview is shown. <st> To rotate the orientation of the monitor, use the buttons with the
+      arrows until the preview is correct. <st> When you are happy with your settings, click Apply and then
+      click Keep Changes .","To set up an additional monitor, connect the monitor to your computer. If
+  your system does not recognize it immediately, or you would like to adjust
+  the settings:",1
+72,Connect with your contact,More Information,Contacts — Access your contacts.,More Information,0
+73,Connect with your contact,Connect with your contact,"Select the contact from your contact list. <st> Press on the detail that you want to use. For example, to
+      email your contact, press the email address. <st> The corresponding application will be launched using the contact’s
+      details.",Contacts,1
+74,The estimated battery life is wrong,More Information,Questions,More Information,0
+75,The estimated battery life is wrong,See Also,"Why do I have less battery life than I did on Windows/Mac OS? — Tweaks from the manufacturer and differing battery life estimates may
+    be the cause of this problem.",See Also,0
+76,Use different speakers or headphones,More Information,"Basic sound — Volume , speakers and headphones , microphones …",More Information,0
+77,Use different speakers or headphones,See Also,"Use a different microphone — Use an analog or USB microphone and select a default input
+    device.",See Also,0
+78,Use different speakers or headphones,Select a default audio input device,"Open the Activities overview and start typing Sound . <st> Click on Sound to open the panel. <st> In the Output tab, select the device that you want to
+      use.",Select a default audio input device,1
+79,What is Bluetooth visibility?,More Information,"Bluetooth — Connect , send files , turn on and off …",More Information,0
+80,I hear crackling or buzzing when sounds are playing,I hear crackling or buzzing when sounds are playing,"Check that the speakers are plugged in correctly. If the speakers are not fully plugged in, or if they are plugged into the
+  wrong socket, you might hear a buzzing sound. <st> Make sure the speaker/headphone cable is not damaged. Audio cables and connectors can gradually wear with use. Try plugging the
+  cable or headphones into another audio device (like an MP3 player or a CD
+  player) to check if there is still a crackling sound. If there is, you may need
+  to replace the cable or headphones. <st> Check if the sound drivers are not very good. Some sound cards do not work very well on Linux because they do not have very
+  good drivers. This problem is more difficult to identify. Try searching for
+  the make and model of your sound card on the internet, plus the search term
+  “Linux”, to see if other people are having the same problem. You can use the lspci command to get more information about your
+  sound card.","If you hear crackling or buzzing when sounds are playing on your computer,
+ you may have a problem with the audio cables or connectors, or a problem with
+ the drivers for the sound card.",0
+81,I hear crackling or buzzing when sounds are playing,More Information,"Sound problems — Troubleshoot problems like having no sound or having poor sound
+    quality.",More Information,0
+82,How do I assign profiles to devices?,More Information,"Color management — Why is this important , Color profiles , How to calibrate a device …",More Information,0
+83,How do I assign profiles to devices?,See Also,How do I import color profiles? — Color profiles can be imported by opening them. <st> What is a color profile? — A color profile is a simple file that expresses a color space or device response. <st> Why do I need to do calibration myself? — Calibrating is important if you care about the colors you display or print.,See Also,0
+84,How do I assign profiles to devices?,How do I assign profiles to devices?,"Open the Activities overview and
+      start typing Settings . <st> Click on Settings . <st> Click Devices in the sidebar. <st> Click Color in the sidebar to open the panel. <st> Select the device for which you want to add a profile. <st> Click Add profile to select an existing profile or import
+      a new profile. <st> Press Add to confirm your selection.","You may want to assign a color profile for your screen or printer so that
+  the colors which it shows are more accurate.",1
+85,Maximize and unmaximize a window,More Information,Working with windows,More Information,0
+86,Maximize and unmaximize a window,See Also,Tile windows — Maximize two windows side-by-side.,See Also,0
+87,Why did my computer turn off when the battery got to 10%?,More Information,Questions,More Information,0
+88,Can I share my color profile?,More Information,Calibration,More Information,0
+89,Can I share my color profile?,See Also,What is a color profile? — A color profile is a simple file that expresses a color space or device response.,See Also,0
+90,Use alternative keyboard layouts,More Information,"Keyboard — Keyboard layouts , cursor blinking , keyboard accessibility … <st> Region & Language — Language , region and formats , keyboard layouts … <st> Set keyboard shortcuts — Define or change keyboard shortcuts in Keyboard settings.",More Information,0
+91,Use alternative keyboard layouts,See Also,"Enter special characters — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.",See Also,0
+92,Use alternative keyboard layouts,Use alternative keyboard layouts,"Open the Activities overview and
+      start typing Region & Language . <st> Click on Region & Language to open the panel. <st> Click the + button in the Input Sources section,
+      select the language which is associated with the layout, then select a
+      layout and press Add .","Keyboards come in hundreds of different layouts for different languages.
+  Even for a single language, there are often multiple keyboard layouts, such
+  as the Dvorak layout for English. You can make your keyboard behave like a
+  keyboard with a different layout, regardless of the letters and symbols
+  printed on the keys. This is useful if you often switch between multiple
+  languages.",1
+93,Install the Flash plug-in,Install the Flash plug-in,NPAPI for Firefox and other Gecko-based web browsers <st> PPAPI for Chromium and other Blink-based web browsers including Opera and Vivaldi,There are two kinds of plug-ins available:,0
+94,Install the Flash plug-in,More Information,"Web Browsers — Change the default browser , install Flash …",More Information,0
+95,Install the Flash plug-in,adobe-flashplugin,Make sure that the Canonical Partner repository is activated . <st> Install the adobe-flashplugin package. <st> Restart your browser.,adobe-flashplugin,1
+96,Install the Flash plug-in,browser-plugin-freshplayer-pepperflash,"Make sure that adobe-flashplugin is installed. <st> Open a terminal window by pressing Ctrl + Alt + T and
+   install the browser-plugin-freshplayer-pepperflash package: sudo apt install browser-plugin-freshplayer-pepperflash <st> Restart your browser.",browser-plugin-freshplayer-pepperflash,1
+97,Change the name or location of a printer,More Information,Set up a printer,More Information,0
+98,Change the name or location of a printer,See Also,"How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system.",See Also,0
+99,Change the name or location of a printer,Change printer name,"Open the Activities overview and
+      start typing Printers . <st> Click Printers to open the panel. <st> Click the Unlock button in the top-right corner and enter
+      your password. <st> Click the name of your printer, and start typing a new name for
+      the printer. <st> Press Enter to save your changes.","If you want to change the name of a printer, take the following steps:",1
+100,Change the name or location of a printer,Change printer location,"Open the Activities overview and
+      start typing Printers . <st> Click Printers to open the panel. <st> Click the Unlock button in the top-right corner and enter
+      your password. <st> Click the location, and start editing the location. <st> Press Enter to save the changes.",To change the location of your printer:,1
+101,Adjust the double-click speed,More Information,"Mobility impairments <st> Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+102,Adjust the double-click speed,Adjust the double-click speed,"Open the Activities overview and
+  start typing Universal Access . <st> Click on Universal Access to open the panel. <st> Under Pointing & Clicking , adjust the Double-click slider to a value you find comfortable.","Double-clicking only happens when you press the mouse button twice
+quickly enough. If the second press is too long after the first, you’ll
+just get two separate clicks, not a double click. If you have difficulty
+pressing the mouse button quickly, you should increase the timeout.",1
+103,What is a color profile?,More Information,Color profiles,More Information,0
+104,What is a color profile?,See Also,Can I share my color profile? — Sharing color profiles is never a good idea as hardware changes over time. <st> How do I assign profiles to devices? — Look in Settings ▸ Color to add a color profile for your screen. <st> How do I import color profiles? — Color profiles can be imported by opening them. <st> What is a color space? — A color space is a defined range of colors. <st> Where do I get color profiles? — Color profiles are provided by vendors and can be generated yourself.,See Also,0
+105,Set screen brightness,More Information,"Display & screen — Background , size and rotation ,
+      brightness… <st> Screen problems — 
+      Troubleshoot screen and graphics problems.",More Information,0
+106,Set screen brightness,See Also,"Adjust the contrast — Make windows and buttons on the screen more (or less) vivid, so
+    they’re easier to see. <st> Enable automatic brightness — Automatically control screen brightness to reduce battery use. <st> Use less power and improve battery life — Tips to reduce the power consumption of your computer. <st> Why does my screen go dim after a while? — The screen will dim when the computer is idle in order to save power.",See Also,0
+107,Set screen brightness,To set the screen brightness using the Power panel:,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. <st> Adjust the Screen brightness slider to the value you want to
+      use. The change should take effect immediately.",To set the screen brightness using the Power panel:,1
+108,Check the battery status,More Information,"Power & battery — Battery status , suspend , screen dimming …",More Information,0
+109,Check the battery status,See Also,Use less power and improve battery life — Tips to reduce the power consumption of your computer.,See Also,0
+110,Check the battery status,Display the status of the battery and connected devices,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. The status of known devices
+      is displayed.",Display the status of the battery and connected devices,1
+111,Choose a monitor,More Information,"Wacom Graphics Tablet — Map a monitor , configure the stylus , use the tablet left handed …",More Information,0
+112,Choose a monitor,Choose a monitor,"Open the Activities overview and
+    start typing Wacom Tablet . <st> Click on Wacom Tablet to open the panel. If no tablet is detected, you’ll be asked to Please plug in or turn on your Wacom tablet . Click the Bluetooth Settings link to connect a wireless tablet. <st> Click Map to Monitor… <st> Check Map to single monitor . <st> Next to Output , select the monitor you wish to receive
+   input from your graphics tablet. Only the monitors that are configured will be
+      selectable. <st> Switch Keep aspect ratio (letterbox) to ON to
+    match the drawing area of the tablet to the proportions of the monitor.
+      This setting, also called force proportions , letterboxes the drawing area on a tablet to correspond more
+      directly to a display. For example, a 4∶3 tablet would be mapped so that
+      the drawing area would correspond to a widescreen display. <st> Click Close .",Choose a monitor,1
+113,Calendar appointments,More Information,"Customize your desktop <st> Date & time — Set date and time , world clocks , timezone , calendar and appointments …",More Information,0
+114,Calendar appointments,Calendar appointments,"Click on the clock on the top bar. <st> Click the date for which you want to see your appointments from the
+      calendar. A dot is shown under each date that has an appointment. Existing appointments will be displayed to the left of the calendar.
+      As appointments are added to your Evolution calendar, they
+      will appear in the clock’s appointment list.",To view your appointments:,1
+115,Why do I have less battery life than I did on Windows/Mac OS?,More Information,Questions,More Information,0
+116,Why do I have less battery life than I did on Windows/Mac OS?,See Also,The estimated battery life is wrong — The battery life displayed when you click on the battery icon is an estimate. <st> Use less power and improve battery life — Tips to reduce the power consumption of your computer. <st> Why is my laptop slow when it is on battery? — Some laptops intentionally slow down when they are running on battery.,See Also,0
+117,Configure the stylus,Configure the stylus,"Eraser Pressure Feel: use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between Soft and Firm . <st> Button/Scroll Wheel configuration (these change to
+       reflect the stylus). Click the menu next to each label to select one of
+       these functions: No Action, Left Mouse Button Click, Middle Mouse Button
+       Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
+       Scroll Right, Back, or Forward. <st> Tip Pressure Feel: use the slider to adjust the
+       “feel” between Soft and Firm .","The lower part of the panel contains details and settings specific
+   to your stylus, with the device name (the stylus class) and diagram to the
+   left. These settings can be adjusted:",0
+118,Configure the stylus,More Information,"Wacom Graphics Tablet — Map a monitor , configure the stylus , use the tablet left handed …",More Information,0
+119,Configure the stylus,Configure the stylus,"Open the Activities overview and
+    start typing Wacom Tablet . <st> Click on Wacom Tablet to open the panel. If no tablet is detected, you’ll be asked to Please plug in or turn on your Wacom tablet . Click the Bluetooth Settings link to connect a wireless tablet. <st> The lower part of the panel contains details and settings specific
+   to your stylus, with the device name (the stylus class) and diagram to the
+   left. These settings can be adjusted: Eraser Pressure Feel: use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between Soft and Firm . Button/Scroll Wheel configuration (these change to
+       reflect the stylus). Click the menu next to each label to select one of
+       these functions: No Action, Left Mouse Button Click, Middle Mouse Button
+       Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
+       Scroll Right, Back, or Forward. Tip Pressure Feel: use the slider to adjust the
+       “feel” between Soft and Firm . <st> Eraser Pressure Feel: use the slider to adjust the
+       “feel” (how physical pressure is translated to digital values) between Soft and Firm . <st> Button/Scroll Wheel configuration (these change to
+       reflect the stylus). Click the menu next to each label to select one of
+       these functions: No Action, Left Mouse Button Click, Middle Mouse Button
+       Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
+       Scroll Right, Back, or Forward. <st> Tip Pressure Feel: use the slider to adjust the
+       “feel” between Soft and Firm .",Configure the stylus,1
+120,Why won’t DVDs play?,More Information,Videos,More Information,0
+121,Why won’t DVDs play?,See Also,How do I enable restricted codecs to play DVDs? — Most commercial DVDs are encrypted and will not play without decryption software.,See Also,0
+122,Search for a contact,More Information,Contacts — Access your contacts.,More Information,0
+123,Search for a contact,Search for a contact,"In the Activities overview, start typing the name of the
+      contact. <st> Matching contacts will appear in the overview instead of the usual list
+      of applications. <st> Press Enter to select the contact at the top of the list or
+      click the contact that you want to select if they are not at the
+      top.",You can search for an online contact in one of two ways:,1
+124,Search for a contact,Search for a contact,Click inside the search field. <st> Start typing the name of the contact.,Contacts,1
+125,How do administrative privileges work?,More Information,User privileges,More Information,0
+126,How do administrative privileges work?,See Also,"Change the name or location of a printer — Change the name or location of a printer in the printer
+    settings. <st> Change who has administrative privileges — You can allow users to make changes to the system by giving them
+    administrative privileges. <st> Change your login screen photo — Add your photo to the login and user screens. <st> Change your password — Keep your account secure by changing your password often in your
+    account settings. <st> Delete a user account — Remove users that no longer use your computer. <st> Other users can’t edit the network connections — You need to uncheck the Available to all users option in the network connection settings. <st> Problems caused by administrative restrictions — You can do some things, like installing applications, only if you
+    have administrative privileges. <st> Set the default printer — Pick the printer that you use most often.",See Also,0
+127,Edit contact details,More Information,Contacts — Access your contacts.,More Information,0
+128,Edit contact details,Edit contact details,"Select the contact from your contact list. <st> Press Edit in the top-right corner of Contacts . <st> Edit the contact details. To add a detail such as a new phone number or email
+      address, press New Detail and select the field
+      that you want to add. <st> Press Done to finish editing the
+      contact.","Editing contact details helps you keep the information in your address
+  book up to date and complete.",1
+129,Check how much disk space is left,Check with Disk Usage Analyzer,"Open Disk Usage Analyzer from the Activities overview. The window will display a list of file locations together with
+      the usage and capacity of each. <st> Click one of the items in the list to view a detailed summary of the
+      usage for that item. Click the menu button, and then Scan
+      Folder… or Scan Remote Folder… to scan a different
+      location.","Disk Usage
+  Analyzer",0
+130,Check how much disk space is left,What if the disk is too full?,"Delete files that aren’t important or that you won’t use anymore. <st> Make backups of the important files that
+   you won’t need for a while and delete them from the hard drive.",If the disk is too full you should:,0
+131,Check how much disk space is left,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+132,Check how much disk space is left,Check with System Monitor,"Open the System Monitor application from the Activities overview. <st> Select the File Systems tab to view the system’s partitions and
+  disk space usage.  The information is displayed according to Total , Free , Available and Used .",System Monitor,1
+133,Why does my screen go dim after a while?,More Information,"Power saving settings <st> Screen problems — 
+      Troubleshoot screen and graphics problems.",More Information,0
+134,Why does my screen go dim after a while?,See Also,"Set screen blanking time — Change the screen blanking time to save power. <st> Set screen brightness — Change the screen brightness to make it more readable in bright
+    light. <st> Use less power and improve battery life — Tips to reduce the power consumption of your computer.",See Also,0
+135,Why does my screen go dim after a while?,Why does my screen go dim after a while?,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. <st> Switch Dim screen when inactive to OFF in the Power
+      Saving section.",To stop the screen from dimming itself:,1
+136,Change the sound volume,More Information,"Basic sound — Volume , speakers and headphones , microphones …",More Information,0
+137,Change the sound volume,Changing the sound volume for individual applications,"Open the Activities overview and start typing Sound . <st> Click on Sound to open the panel. <st> Go to the Applications tab and change the volume of the
+      application listed there. Only applications that are playing sounds are listed. If an
+    application is playing sounds but is not listed, it might not support the
+    feature that lets you control its volume in this way. In such case, you
+    cannot change its volume.","Some applications have volume controls in their main windows. If your
+  application has its volume control, use that to change the volume. If not:",1
+138,Switch between windows,More Information,Applications and windows <st> Working with windows,More Information,0
+139,Switch between windows,See Also,A tutorial on switching tasks <st> A tutorial on using windows and workspaces,See Also,0
+140,Switch between windows,Switch between windows,"Press Super + Tab to bring up the window switcher . <st> Release Super to select the next
+      (highlighted) window in the switcher. <st> Otherwise, still holding down the Super key, press Tab to cycle through the list of open
+      windows, or Shift + Tab to cycle
+      backwards.",From a workspace:,1
+141,Tile windows,More Information,Working with windows,More Information,0
+142,Tile windows,See Also,"Maximize and unmaximize a window — Double-click or drag a titlebar to maximize or restore a
+    window.",See Also,0
+143,Set the display name for your computer,More Information,"Sharing Settings — Bluetooth sharing , Personal file sharing , Screen sharing , Media sharing …",More Information,0
+144,Set the display name for your computer,Change the display name of your computer:,"Open the Activities overview and
+      start typing Sharing . <st> Click on Sharing to open the panel. <st> Edit the text below Computer Name to change the name your
+      computer displays on the network.",Change the display name of your computer:,1
+145,Change which language you use,More Information,"Region & Language — Language , region and formats , keyboard layouts …",More Information,0
+146,Change which language you use,See Also,"Change date and measurement formats — Choose a region used for date and time, numbers, currency,
+    and measurement.",See Also,0
+147,Change which language you use,Change which language you use,"Open the Activities overview and
+      start typing Region & Language . <st> Click on Region & Language to open the panel. <st> Click Language . <st> Select your desired region and language. If your region and language
+      are not listed, click at the bottom of the list to select from all available regions and
+      languages. <st> Click Done to save. <st> Respond to the prompt, Your session needs to be restarted for
+      changes to take effect by clicking Restart Now , or click × to restart later.","You can use your desktop and applications in any of dozens of languages,
+  provided you have the proper language packs installed on your computer.",1
+148,Turn off or limit file history tracking,More Information,"More file-related tasks <st> Privacy Settings — Screen lock , Usage history , Purge trash & temporary files …",More Information,0
+149,Turn off or limit file history tracking,Turn off file history tracking,"Open the Activities overview and
+      start typing Privacy . <st> Click on Privacy to open the panel. <st> Select Usage & History . <st> Set the Recently Used switch to OFF . To re-enable this feature, set the Recently Used switch to ON . <st> Use the Clear Recent History button to purge the history
+      immediately.",Turn off file history tracking,1
+150,Turn off or limit file history tracking,Restrict the amount of time your file history is tracked,"Open the Activities overview and
+      start typing Privacy . <st> Click on Privacy to open the panel. <st> Select Usage & History . <st> Ensure the Recently Used switch is ON . <st> Select the length of time to Retain History . Choose from
+     options 1 day , 7 days , 30 days , or Forever . <st> Use the Clear Recent History button to purge the history
+      immediately.",Restrict the amount of time your file history is tracked,1
+151,Why do I need to do calibration myself?,More Information,Calibration,More Information,0
+152,Why do I need to do calibration myself?,See Also,Can I get notified when my color profile is inaccurate? — You can be notified if your color profile is old and inaccurate. <st> How do I assign profiles to devices? — Look in Settings ▸ Color to add a color profile for your screen. <st> Where do I get color profiles? — Color profiles are provided by vendors and can be generated yourself.,See Also,0
+153,Missing information for whole-screen color correction?,More Information,Problems,More Information,0
+154,Missing information for whole-screen color correction?,See Also,Where do I get color profiles? — Color profiles are provided by vendors and can be generated yourself.,See Also,0
+155,Use the tablet left-handed,More Information,"Wacom Graphics Tablet — Map a monitor , configure the stylus , use the tablet left handed …",More Information,0
+156,Use the tablet left-handed,Use the tablet left-handed,"Open the Activities overview and
+    start typing Wacom Tablet . <st> Click on Wacom Tablet to open the panel. If no tablet is detected, you’ll be asked to Please plug in or turn on your Wacom tablet . Click the Bluetooth Settings link to connect a wireless tablet. <st> Switch Left-Handed Orientation to ON .","Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons for left-handed people. To switch the
+   orientation to left-handed:",1
+157,How do I enable restricted codecs to play DVDs?,More Information,Videos,More Information,0
+158,How do I enable restricted codecs to play DVDs?,See Also,"Why won’t DVDs play? — You might not have the right codecs installed, or the DVD might be
+    the wrong region.",See Also,0
+159,How do I enable restricted codecs to play DVDs?,Use alternative decryption software,"Install libdvdnav4 , libdvdread4 , gstreamer1.0-plugins-bad , gstreamer1.0-plugins-ugly , and libdvd-pkg . <st> Open a terminal window by pressing Ctrl + Alt + T . <st> Run the command sudo dpkg-reconfigure libdvd-pkg and confirm in order to install libdvdcss2 .","In some countries, the use of the below unlicensed decryption software is not permitted by law. Verify that you are within your rights to use it.",1
+160,Print two-sided and multi-page layouts,More Information,Different paper sizes and layouts,More Information,0
+161,Print two-sided and multi-page layouts,Print two-sided and multi-page layouts,"Open the print dialog by pressing Ctrl + P . <st> Go to the Page Setup tab of the Print window and choose an
+      option from the Two-sided drop-down list. If the option is
+      disabled, two-sided printing is not available for your printer. Printers handle two-sided printing in different ways. It is a good
+      idea to experiment with your printer to see how it works. <st> You can print more than one page of the document per side of
+      paper too. Use the Pages per side option to do this.",To print on both sides of each sheet of paper:,1
+162,What happens when I suspend my computer?,More Information,"Power & battery — Battery status , suspend , screen dimming …",More Information,0
+163,What happens when I suspend my computer?,See Also,"Set up automatic suspend — Configure your computer to suspend automatically. <st> Suspend <st> Use less power and improve battery life — Tips to reduce the power consumption of your computer. <st> Why does my computer not turn back on after I suspended it? — Some computer hardware causes problems with suspend. <st> Why does my computer turn off when I close the lid? — Laptops go to sleep when you close the lid, in order to save
+    power.",See Also,0
+164,"Why are there streaks, lines or the wrong colors on my
+  print-outs?",More Information,"Printer problems — Undetected printers, paper jams, print-outs that look wrong…",More Information,0
+165,"Why are there streaks, lines or the wrong colors on my
+  print-outs?",See Also,How can I check my printer’s ink or toner levels? — Check the amount of ink or toner left in printer cartridges.,See Also,0
+166,My new iPod won’t work,More Information,Music and players,More Information,0
+167,Share your personal files,More Information,"Sharing — Desktop sharing , Share files by email , Media sharing … <st> Sharing Settings — Bluetooth sharing , Personal file sharing , Screen sharing , Media sharing …",More Information,0
+168,Share your personal files,Share your personal files,"Open the Activities overview and
+      start typing Sharing . <st> Click on Sharing to open the panel. <st> If Sharing is OFF , switch it to ON . If the text below Computer Name allows
+      you to edit it, you can change the name your computer displays on the network. <st> Select Personal File Sharing . <st> Switch Personal File Sharing to ON . This means
+      that other people on your current network will be able to attempt to
+      connect to your computer and access files in your Public folder. A URI is displayed by which your Public folder
+        can be accessed from other computers on the network.",Install gnome-user-share,1
+169,Set the Wacom tablet’s tracking mode,More Information,"Wacom Graphics Tablet — Map a monitor , configure the stylus , use the tablet left handed …",More Information,0
+170,Set the Wacom tablet’s tracking mode,Set the Wacom tablet’s tracking mode,"Open the Activities overview and
+    start typing Wacom Tablet . <st> Click on Wacom Tablet to open the panel. If no tablet is detected, you’ll be asked to Please plug in or turn on your Wacom tablet . Click the Bluetooth Settings link to connect a wireless tablet. <st> Next to Tracking Mode , select Tablet (absolute) or Touchpad (relative) .",Tracking Mode,1
+171,What is a MAC address?,More Information,"Networking terms & tips — Find your IP address , WEP & WPA security , MAC addresses , proxies …",More Information,0
+172,What is a MAC address?,What is a MAC address?,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Choose which device, Wi-Fi or Wired , from
+      the left pane. The MAC address for the wired device will be displayed as the Hardware Address on the right. Click the button to see the MAC address for the wireless device displayed as the Hardware Address in the Details panel.",To identify the MAC address of your own network hardware:,1
+173,Wipe everything off a removable disk,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+174,Wipe everything off a removable disk,Format a removable disk,"Open Disks from the Activities overview. <st> Select the disk you want to wipe from the list of storage devices on the
+    left. Make sure that you have selected the correct disk! If you choose the
+      wrong disk, all of the files on the other disk will be deleted! <st> In the toolbar underneath the Volumes section, click the
+    menu button. Then click Format… . <st> In the window that pops up, choose a file system Type for the
+    disk. If you use the disk on Windows and Mac OS computers in addition to Linux
+   computers, choose FAT . If you only use it on Windows, NTFS may be a better option. A brief description of the file system type will be presented as a label. <st> Give the disk a name and click Format… to continue and show a
+    confirmation window. Check the details carefully, and click Format to wipe the disk. <st> Once the formatting has finished, click the eject icon to safely remove
+    the disk. It should now be blank and ready to use again.",Format a removable disk,1
+175,Use a different microphone,More Information,"Basic sound — Volume , speakers and headphones , microphones …",More Information,0
+176,Use a different microphone,See Also,"Use different speakers or headphones — Connect speakers or headphones and select a default audio output
+    device.",See Also,0
+177,Use a different microphone,Select a default audio input device,"Open the Activities overview and
+      start typing Sound . <st> Click on Sound to open the panel. <st> In the Input tab, select the device that you want to use.
+      The input level indicator should respond when you speak.",Select a default audio input device,1
+178,How can I use Skype on Ubuntu?,How can I use Skype on Ubuntu?,"Open your web browser and go to the Download Skype page. <st> Click the Get Skype for Linux DEB button. <st> In the window which shows up, select Open with and Software
+      Install (default) , and then click the OK button. <st> Ubuntu Software is opened. Click the Install button and authenticate.",Skype for Linux,0
+179,How can I use Skype on Ubuntu?,More Information,"Chat & Social Networking — Chat on any network using Empathy , make video calls , install skype",More Information,0
+180,How can I use Skype on Ubuntu?,See Also,Video calls — What applications can I use to make video calls?,See Also,0
+181,File manager preview preferences,More Information,File manager preferences — View and set preferences for the file browser.,More Information,0
+182,File manager preview preferences,See Also,"Preview files and folders — Quickly show and hide previews for documents, images, videos, and
+    more.",See Also,0
+183,Adjust the size of a filesystem,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+184,Adjust the size of a filesystem,Resize a filesystem/partition,"Open Disks from the Activities overview. <st> Select the disk containing the filesystem in question from the list
+       of storage devices on the left. If there is more than one volume on
+       the disk, select the volume which contains the filesystem. <st> In the toolbar underneath the Volumes section, click the
+       menu button. Then click Resize Filesystem… or Resize… if there is no filesystem. <st> A dialog will open where the new size can be chosen. The filesystem will
+       be mounted to calculate the minimum size by the amount of current
+       content. If shrinking is not supported the minimum size is the current
+       size. Leave enough space within the filesystem when shrinking to ensure
+       that it can work fast and reliably. Depending on how much data has to be moved from the shrunk part, the
+       filesystem resize may take longer time. The filesystem resize automatically involves repairing of the filesystem. Therefore
+         it is advised to back up important data before starting. The action
+         must not be stopped or it will result in a damaged filesystem. <st> Confirm to start the action by clicking Resize . The action will unmount the filesystem if resizing a mounted filesystem
+      is not supported. Be patient while the filesystem is resized. <st> After completion of the needed resize and repair actions the filesystem
+       is ready to be used again.",Resize a filesystem/partition,1
+185,The internet seems slow,The internet seems slow,"Busy time of day Internet service providers commonly setup internet connections so that
+      they are shared between several households. Even though you connect
+      separately, through your own phone line or cable connection, the
+      connection to the rest of the internet at the telephone exchange might
+      actually be shared. If this is the case and lots of your neighbors are
+      using the internet at the same time as you, you might notice a slow-down.
+      You’re most likely to experience this at times when your neighbors are
+      probably on the internet (in the evenings, for example). <st> Downloading lots of things at once If you or someone else using your internet connection are downloading
+      several files at once, or watching videos, the internet connection might
+      not be fast enough to keep up with the demand. In this case, it will feel
+      slower. <st> Unreliable connection Some internet connections are just unreliable, especially temporary
+      ones or those in high demand areas. If you are in a busy coffee shop or a
+      conference center, the internet connection might be too busy or simply
+      unreliable. <st> Low wireless connection signal If you’re connected to the internet by wireless (wifi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal. <st> Using a slower mobile internet connection If you have a mobile internet connection and notice that it is slow,
+      you may have moved into an area where signal reception is poor. When this
+      happens, the internet connection will automatically switch from a fast
+      “mobile broadband” connection like 3G to a more reliable, but slower,
+      connection like GPRS. <st> Web browser has a problem Sometimes web browsers encounter a problem that makes them run slow.
+      This could be for any number of reasons — you could have visited a
+      website that the browser struggled to load, or you might have had the
+      browser open for a long time, for example. Try closing all of the
+      browser’s windows and then opening the browser again to see if this makes
+      a difference.","Try closing your web browser and then re-opening it, and disconnecting
+  from the internet and then reconnecting again. (Doing this resets a lot of
+  things that might be causing the internet to run slowly.)",0
+186,The internet seems slow,More Information,"Network problems — Troubleshooting wireless connections , finding your wifi network …",More Information,0
+187,Manually set network settings,More Information,"Wired Networking — Wired internet connections , Fixed IP addresses … <st> Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+188,Manually set network settings,To manually set your network settings:,"Open the Activities overview and start typing Settings . <st> Click on Settings . <st> In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click Network . Otherwise click Wi-Fi . Make sure that your wireless card is turned on or a network cable is
+      plugged in. <st> Click the button. For a Wi-Fi connection, the button will be located next to the active network. <st> Click on IPv4 or IPv6 in the left pane
+      and change the Addresses to Manual . <st> Type in the IP Address and Gateway , as well as the appropriate Netmask . <st> In the DNS section, switch Automatic to OFF . Enter the IP address of a DNS server you want to use.
+      Enter additional DNS server addresses using the + button. <st> In the Routes section, switch Automatic to OFF . Enter the Address , Netmask , Gateway and Metric for a route you want to use.
+      Enter additional routes using the + button. <st> Click Apply . If you are not connected to the network, click
+      the system status area on the top bar and connect. Test the network
+      settings by trying to visit a website or look at shared files on the
+      network, for example.",To manually set your network settings:,1
+189,Which target types are supported?,Which target types are supported?,CMP DigitalTarget <st> ColorChecker 24 <st> ColorChecker DC <st> ColorChecker SG <st> i1 RGB Scan 14 <st> LaserSoft DC Pro <st> QPcard 201 <st> IT8.7/2,"
+    The following types of targets are supported:
+  ",0
+190,Which target types are supported?,More Information,Calibration,More Information,0
+191,Which target types are supported?,See Also,How do I calibrate my camera? — Calibrating your camera is important to capture accurate colors. <st> How do I calibrate my scanner? — Calibrating your scanner is important to capture accurate colors.,See Also,0
+192,How can I check my printer’s ink or toner levels?,More Information,"Printing — Local setup , order and collate , two-sided and multi-page …",More Information,0
+193,How can I check my printer’s ink or toner levels?,See Also,"Why are there streaks, lines or the wrong colors on my
+  print-outs? — If print-outs are streaky, fading, or missing colors, check your ink
+    levels or clean the print head.",See Also,0
+194,Move and resize windows,Move and resize windows,"Move a window by dragging the titlebar, or hold down Super and drag anywhere in the
+      window. Hold down Shift while moving to snap the window to the
+      edges of the screen and other windows. <st> Resize a window by dragging the edges or corner of the window. Hold
+      down Shift while resizing to snap the window to the edges
+      of the screen and other windows. <st> Move or resize a window using only the keyboard. Press Alt + F7 to move a window or Alt + F8 to resize. Use the arrow
+      keys to move or resize, then press Enter to finish, or press Esc to return to the original position and size. <st> Maximize a window by
+      dragging it to the top of the screen. Drag a window to one side of the
+      screen to maximize it along the side, allowing you to tile windows side by side .","You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, GNOME features shortcuts
+  and modifiers to help you arrange windows quickly.",0
+195,Move and resize windows,More Information,Working with windows,More Information,0
+196,Turn off wireless (airplane mode),More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+197,Turn off wireless (airplane mode),Turn off wireless (airplane mode),"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Switch Airplane Mode to ON . This will turn off
+      your wireless connection until you disable airplane mode again.",To turn on airplane mode:,1
+198,Online services and applications,More Information,"Online accounts — Add an online account , Remove an account , Learn about services …",More Information,0
+199,Online services and applications,See Also,"Control which online services an account can be used to access — Some online accounts can be used to access multiple services (like
+    calendar and email). You can control which of these services can be used by
+    applications.",See Also,0
+200,Enable automatic brightness,More Information,Power saving settings,More Information,0
+201,Enable automatic brightness,See Also,"Set screen brightness — Change the screen brightness to make it more readable in bright
+    light.",See Also,0
+202,Enable automatic brightness,Enable automatic brightness,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. <st> In the Power Saving section, ensure that Automatic brightness is set to ON .","If your computer has an integrated light sensor, it can be used to
+  automatically control screen brightness. This ensures that the screen is
+  always easy to see in different ambient light conditions, and helps to reduce
+  battery consumption.",1
+203,How to back up,How to back up,"Files that are already backed up somewhere else, such as to a CD, DVD,
+ or other removable media. <st> Files that you can recreate easily. For example, if you are a
+ programmer, you do not have to back up the files that get produced when you
+ compile your programs. Instead, just make sure that you back up the original
+ source files. <st> Any files in the Trash folder. Your Trash folder can be found in ~/.local/share/Trash .","The amount of data you can back up is limited by the size of the storage
+ device. If you have the room on your backup device, it is best to back up the
+ entire Home folder with the following exceptions:",0
+204,How to back up,More Information,"Back up your important files — Why, what, where and how of backups.",More Information,0
+205,Make pages print in a different order,More Information,Different paper sizes and layouts,More Information,0
+206,Make pages print in a different order,To reverse the order:,"Press Ctrl + P to open the Print
+        dialog. <st> In the General tab, under Copies , check Reverse . The last page will be printed first, and so on.",To reverse the order:,1
+207,Make pages print in a different order,To collate:,"Press Ctrl + P to open the Print
+     dialog. <st> In the General tab, under Copies , check Collate .",To collate:,1
+208,File manager display preferences,More Information,File manager preferences — View and set preferences for the file browser.,More Information,0
+209,Why is color management important?,More Information,"Color management — Why is this important , Color profiles , How to calibrate a device …",More Information,0
+210,Adjust speed of the mouse and touchpad,More Information,"Mobility impairments <st> Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+211,Adjust speed of the mouse and touchpad,Adjust speed of the mouse and touchpad,"Open the Activities overview and
+      start typing Mouse & Touchpad . <st> Click on Mouse & Touchpad to open the panel. <st> Adjust the Pointer Speed slider until the pointer motion
+      is comfortable for you. You will see one slider per each pointing device,
+      such as mouse or touchpad.","If your pointer moves too fast or slow when you move your mouse or use
+  your touchpad, you can adjust the pointer speed for these devices.",1
+212,Media card reader problems,More Information,Hardware problems <st> Photos,More Information,0
+213,Media card reader problems,Media card reader problems,"Make sure that the card is put in correctly. Many cards look as though they are
+upside down when correctly inserted. Also make sure that the card is firmly seated
+in the slot; some cards, especially CF, require a small amount of force to insert
+correctly. (Be careful not to push too hard! If you come up against something solid,
+do not force it.) <st> Open Files from the Activities overview. Does the inserted
+  card appear in the Devices list in the left sidebar? Sometimes the
+  card appears in this list but is not mounted; click it once to mount. (If the
+  sidebar is not visible, press F9 or click Files in
+  the top bar and select the Sidebar .) <st> If your card does not show up in the sidebar, press Ctrl + L , then type computer:/// and press Enter . If your card reader
+  is correctly configured, the reader should come up as a drive when no card is
+  present, and the card itself when the card has been mounted. <st> If you see the card reader but not the card, the problem may be with the card itself.
+Try a different card or check the card on a different reader if possible.",mounted,1
+214,Can I get notified when my color profile is inaccurate?,More Information,Problems,More Information,0
+215,Can I get notified when my color profile is inaccurate?,See Also,Why do I need to do calibration myself? — Calibrating is important if you care about the colors you display or print.,See Also,0
+216,What to back up,More Information,"Back up your important files — Why, what, where and how of backups.",More Information,0
+217,Instant messaging on Ubuntu,More Information,"Chat & Social Networking — Chat on any network using Empathy , make video calls , install skype",More Information,0
+218,Instant messaging on Ubuntu,See Also,Video calls — What applications can I use to make video calls?,See Also,0
+219,Why add an account?,More Information,"Online accounts — Add an online account , Remove an account , Learn about services …",More Information,0
+220,Other users can’t edit the network connections,More Information,"Network problems — Troubleshooting wireless connections , finding your wifi network …",More Information,0
+221,Other users can’t edit the network connections,See Also,"How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system. <st> Other users can’t connect to the internet — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.",See Also,0
+222,Other users can’t edit the network connections,Other users can’t edit the network connections,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Select Wi-Fi from the list on the left. <st> Click the button to open the connection
+      details. <st> Select Identity from the pane on the left. <st> At the bottom of the Identity panel, check the Make
+      available to other users option to allow other users to use the
+      network connection. <st> Press Apply to save the changes.",connect,1
+223,Why don’t the default monitor profiles have a calibration expiry?,More Information,Problems <st> Where do I get color profiles? — Color profiles are provided by vendors and can be generated yourself. <st> Why do I need to do calibration myself? — Calibrating is important if you care about the colors you display or print.,More Information,0
+224,I can’t see my wireless network in the list,I can’t see my wireless network in the list,"If no networks are shown in the list, your wireless hardware could be
+  turned off, or it may not be
+  working properly . Make sure it is turned on. <st> You could be out of range of the network. Try moving closer to the
+  wireless base station/router and see if the network appears in the list after
+  a while. <st> The list of wireless networks takes time to update. If you have just
+  turned on your computer or moved to a different location, wait for a minute
+  or so and then check if the network has appeared in the list. <st> The network could be hidden. You need to connect in a different way if it is a
+  hidden network.","There are a number of reasons why you might not be able to see your
+  wireless network on the list of available networks from the system menu.",0
+225,I can’t see my wireless network in the list,More Information,"Network problems — Troubleshooting wireless connections , finding your wifi network … <st> Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+226,I can’t see my wireless network in the list,See Also,"Connect to a hidden wireless network — Connect to a wireless network that is not displayed in the network
+    list.",See Also,0
+227,Check your hard disk for problems,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+228,Check your hard disk for problems,Check your disk’s health using the Disks application,"Open Disks from the Activities overview. <st> Select the disk you want to check from the list of storage devices on
+    the left. Information and status of the disk will be shown. <st> Click the menu button and select SMART Data & Self-Tests… .
+    The Overall Assessment should say “Disk is OK”. <st> See more information under SMART Attributes , or click the Start Self-test button to run a self-test.",Check your disk’s health using the Disks application,1
+229,What do WEP and WPA mean?,More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+230,Problems caused by administrative restrictions,Problems caused by administrative restrictions,"connecting to networks or wireless networks, <st> viewing the contents of a different disk partition (for example, a
+      Windows partition), or <st> installing new applications.",administrative privileges,0
+231,Problems caused by administrative restrictions,More Information,User privileges,More Information,0
+232,Problems caused by administrative restrictions,See Also,"Change who has administrative privileges — You can allow users to make changes to the system by giving them
+    administrative privileges. <st> How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system.",See Also,0
+233,Set up a local printer,More Information,Set up a printer,More Information,0
+234,Set up a local printer,See Also,Set the default printer — Pick the printer that you use most often.,See Also,0
+235,Set up a local printer,Set up a local printer,"Make sure the printer is turned on. <st> Connect the printer to your system via the appropriate cable. You may
+      see activity on the screen as the system searches for drivers, and you
+      may be asked to authenticate to install them. <st> A message will appear when the system is finished installing the
+      printer. Select Print Test Page to print a test page, or Options to make additional changes in the printer setup.","You do not need to select whether you want to install a network or local
+    printer now. They are listed in one window.",1
+236,Set up a local printer,Set up a local printer,"Open the Activities overview and
+      start typing Printers . <st> Click Printers . <st> Click the Unlock button in the top-right corner and enter
+      your password. <st> Click the + button. <st> In the pop-up window, select your new printer. Click Add .","If your printer was not set up automatically, you can add it in the
+  printer settings:",1
+237,Choose a secure password,Choose a secure password,"Use a mixture of upper-case and lower-case letters, numbers, symbols
+      and spaces in the password. This makes it more difficult to guess; there
+      are more symbols from which to choose, meaning more possible passwords
+      that someone would have to check when trying to guess yours. A good method for choosing a password is to take the first letter of
+        each word in a phrase that you can remember. The phrase could be the
+        name of a movie, a book, a song or an album. For example, “Flatland: A
+        Romance of Many Dimensions” would become F:ARoMD or faromd or f:
+        aromd. <st> Make your password as long as possible. The more characters it
+      contains, the longer it should take for a person or computer to guess
+      it. <st> Do not use any words that appear in a standard dictionary in any
+      language. Password crackers will try these first. The most common
+      password is “password” — people can guess passwords like this very
+      quickly! <st> Do not use any personal information such as a date, license plate
+      number, or any family member’s name. <st> Do not use any nouns. <st> Choose a password that can be typed quickly, to decrease the chances
+      of someone being able to make out what you have typed if they happen to
+      be watching you. Never write your passwords down anywhere. They can be easily
+        found! <st> Use different passwords for different things. <st> Use different passwords for different accounts. If you use the same password for all of your accounts, anyone who
+      guesses it will be able to access all of your accounts immediately. It can be difficult to remember lots of passwords, however. Though not
+      as secure as using a different passwords for everything, it may be easier
+      to use the same one for things that do not matter (like websites), and
+      different ones for important things (like your online banking account and
+      your email). <st> Change your passwords regularly.","People could even use computers to systematically try to guess your
+  password, so even one that would be difficult for a human to guess might be
+  extremely easy for a computer program to crack. Here are some tips for
+  choosing a good password:",0
+238,Choose a secure password,More Information,Passwords,More Information,0
+239,Choose a secure password,See Also,"Change your password — Keep your account secure by changing your password often in your
+    account settings.",See Also,0
+240,Why is my account type not on the list?,More Information,"Online accounts — Add an online account , Remove an account , Learn about services …",More Information,0
+241,Will my computer work with a power supply in another country?,More Information,Power problems — Troubleshoot problems with power and batteries.,More Information,0
+242,Connect to a wireless network,More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+243,Connect to a wireless network,See Also,"Why does my wireless network keep disconnecting? — You might have low signal, or the network might not be letting you
+    connect properly. <st> Wireless network troubleshooter — Identify and fix problems with wireless connections.",See Also,0
+244,Connect to a wireless network,Connect to a wireless network,"Open the system menu from the right
+    side of the top bar. <st> Select Wi-Fi Not Connected . The Wi-Fi section of the menu will expand. <st> Click Select Network . <st> Click the name of the network you want, then click Connect . If the name of the network is not in the list, try clicking More to see if the network is further down the list. If you 
+    still do not see the network, you may be out of range, or the network might be hidden . <st> If the network is protected by a password
+    ( encryption key ), enter the
+    password when prompted and click Connect . If you do not know the key, it may be written on the underside of the
+    wireless router or base station, or in its instruction manual, or you may
+    have to ask the person who administers the wireless network. <st> The network icon will change appearance as the computer attempts to
+    connect to the network. <st> If the connection is successful, the icon will change to a dot with
+    several curved bars above it
+    ( ). More bars
+    indicate a stronger connection to the network. Fewer bars mean the
+    connection is weaker and might not be very reliable.","If you have a wireless-enabled computer, you can connect to a wireless
+ network that is within range to get access to the internet, view shared files
+ on the network, and so on.",1
+245,Open applications for devices or discs,More Information,Music and players <st> Photos <st> Removable drives and external disks <st> Videos,More Information,0
+246,Open applications for devices or discs,Open applications for devices or discs,"Open the Activities overview and
+    start typing Details . <st> Click on Details to open the panel. <st> Click Removable Media . <st> Find your desired device or media type, and then choose an application
+    or action for that media type. See below for a description of the different
+    types of devices and media. Instead of starting an application, you can also set it so that the
+    device will be shown in the file manager, with the Open folder option. When that happens, you will be asked what to do, or nothing will
+    happen automatically. <st> If you do not see the device or media type that you want to change in
+    the list (such as Blu-ray discs or E-book readers), click Other
+    Media… to see a more detailed list of devices. Select the type of
+    device or media from the Type drop-down and the application or
+    action from the Action drop-down.","To decide which applications should start when you plug in various
+  devices: ",1
+247,Add or remove a contact,More Information,Contacts — Access your contacts.,More Information,0
+248,Add or remove a contact,Add or remove a contact,"Press the + button. <st> In the New contact dialog, enter the contact name and their
+      information. Click on the drop down box next to each field to chose the
+      type of detail. <st> Press Add .",To add a contact:,1
+249,Add or remove a contact,Add or remove a contact,Select the contact from your contact list. <st> Press Edit in the top-right corner of Contacts . <st> Press Remove Contact .,To remove a contact:,1
+250,My computer gets really hot,More Information,Power problems — Troubleshoot problems with power and batteries.,More Information,0
+251,What is a color space?,More Information,Color profiles,More Information,0
+252,What is a color space?,See Also,What is a color profile? — A color profile is a simple file that expresses a color space or device response.,See Also,0
+253,Why is my laptop slow when it is on battery?,More Information,Questions,More Information,0
+254,Why is my laptop slow when it is on battery?,See Also,"Why do I have less battery life than I did on Windows/Mac OS? — Tweaks from the manufacturer and differing battery life estimates may
+    be the cause of this problem.",See Also,0
+255,I cannot hear any sounds on the computer,More Information,"Sound problems — Troubleshoot problems like having no sound or having poor sound
+    quality.",More Information,0
+256,I cannot hear any sounds on the computer,Make sure that the sound is not muted,"Open Settings from the Activities overview. <st> Click Sound . <st> Go to the Applications tab and check that your application
+      is not muted.",Sound,1
+257,I cannot hear any sounds on the computer,Check that the correct sound device is selected,"Open the Activities overview and
+      start typing Sound . <st> Click on Sound to open the panel. <st> In the Output tab, change the Profile settings for the selected device and play a sound to see if it works.
+      You might need to go through the list and try each profile. If that does not work, you might want to try doing the same for any
+      other devices that are listed.","Some computers have multiple “sound devices” installed. Some of these are
+  capable of outputting sound and some are not, so you should check that you
+  have the correct sound device selected. This might involve some
+  trial-and-error to choose the right one.",1
+258,I cannot hear any sounds on the computer,Check that the sound card was detected properly,"Go to the Activities overview and open a Terminal. <st> Run lspci as superuser ;
+      either type sudo lspci and type your password, or type su , enter the root (administrative) password,
+      then type lspci . <st> Check if an audio controller or audio device is listed:
+      in such case you should see the make and model number of the sound card. 
+      Also, lspci -v shows a list with more detailed information.",lspci,1
+259,Disconnect a Bluetooth device,More Information,"Bluetooth — Connect , send files , turn on and off …",More Information,0
+260,Disconnect a Bluetooth device,See Also,Connect your computer to a Bluetooth device — Pair Bluetooth devices.,See Also,0
+261,Disconnect a Bluetooth device,Disconnect a Bluetooth device,"Open the Activities overview and
+      start typing Bluetooth . <st> Click on Bluetooth to open the panel. <st> Select the device which you want to disconnect from the list. <st> In the device dialog box, switch Connection to OFF , or to remove the device from the Devices list,
+      click Remove Device .","If you do not want to be connected to a Bluetooth device anymore, you can
+  remove the connection. This is useful if you no longer want to use a device
+  like a mouse or headset, or if you no longer wish to transfer files to or
+  from a device.",1
+262,Browse files on a server or network share,More Information,"More file-related tasks <st> Sharing — Desktop sharing , Share files by email , Media sharing …",More Information,0
+263,Browse files on a server or network share,See Also,"Share files by email — Easily transfer files to your email contacts from the file
+    manager.",See Also,0
+264,Browse files on a server or network share,Connect to a file server,"In the file manager, click Other Locations in the
+   sidebar. <st> In Connect to Server , enter the address of the server, in
+  the form of a URL . Details on supported URLs are listed below . If you have connected to the server before, you can click on it in the Recent Servers list. <st> Click Connect . The files on the server will be shown. You
+    can browse the files just as you would for those on your own computer. The
+    server will also be added to the sidebar so you can access it quickly in
+    the future.",Connect to a file server,1
+265,Change who has administrative privileges,More Information,User privileges,More Information,0
+266,Change who has administrative privileges,See Also,"How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system. <st> Problems caused by administrative restrictions — You can do some things, like installing applications, only if you
+    have administrative privileges.",See Also,0
+267,Change who has administrative privileges,Change who has administrative privileges,"Open the Activities overview and
+      start typing Users . <st> Click Users to open the panel. <st> Press Unlock in the top right corner and
+      type in your password when prompted. <st> Select the user whose privileges you want to change. <st> Click the label Standard next to Account Type and select Administrator . <st> The user’s privileges will be changed when they next log in.",administrator privileges,1
+268,Add a world clock,More Information,"Date & time — Set date and time , world clocks , timezone , calendar and appointments …",More Information,0
+269,Add a world clock,See Also,Clocks Help,See Also,0
+270,Add a world clock,Add a world clock,"Click on the clock on the top bar. <st> Click the Add world clocks… link under the calendar to
+      launch Clocks . If you already have one or more world clocks, click on one and Clocks will launch. <st> In the Clocks window, click New button or press Ctrl + N to add a new city. <st> Start typing the name of the city into the search. <st> Select the correct city or the closest location to you from the
+      list. <st> Press Add to finish adding the city.",To add a world clock:,1
+271,"Share your music, photos and videos",More Information,"Sharing — Desktop sharing , Share files by email , Media sharing … <st> Sharing Settings — Bluetooth sharing , Personal file sharing , Screen sharing , Media sharing …",More Information,0
+272,"Share your music, photos and videos","Share your music, photos and videos","Open the Activities overview and
+      start typing Sharing . <st> Click on Sharing to open the panel. <st> If Sharing is OFF , switch it to ON . If the text below Computer Name allows
+      you to edit it, you can change the name your computer displays on the network. <st> Select Media Sharing . <st> Switch Media Sharing to ON . <st> By default, Music , Pictures and Videos are shared. To remove one of these, click the × next to the folder name. <st> To add another folder, click + to open the Choose a folder window. Navigate into the desired
+      folder and click Open . <st> Click × . You will now be able to browse
+      or play media in the folders you selected using the external device.",Install Rygel,1
+273,Turn Bluetooth on or off,More Information,"Bluetooth — Connect , send files , turn on and off …",More Information,0
+274,Turn Bluetooth on or off,Turn Bluetooth on or off,"Open the Activities overview and
+      start typing Bluetooth . <st> Click on Bluetooth to open the panel. <st> Set the switch at the top to ON .","You can turn Bluetooth on to connect to other Bluetooth devices, or turn
+  it off to conserve power. To turn Bluetooth on:",1
+275,Turn Bluetooth on or off,Turn Bluetooth on or off,"Open the system menu from the
+      right side of the top bar. <st> Select Not In Use . The Bluetooth section of the menu will expand. <st> Select Turn Off .",To turn Bluetooth off:,1
+276,Change date and measurement formats,More Information,"Region & Language — Language , region and formats , keyboard layouts …",More Information,0
+277,Change date and measurement formats,See Also,"Change which language you use — Switch to a different language for user interface and help
+    text.",See Also,0
+278,Change date and measurement formats,Change date and measurement formats,"Open the Activities overview and
+      start typing Region & Language . <st> Click on Region & Language to open the panel. <st> Click Formats . <st> Select the region and language that most closely matches the formats
+      you would like to use. If your region and language are not listed, click at the bottom of the list to select from all available regions and
+      languages. <st> Click Done to save. <st> Respond to the prompt, Your session needs to be restarted for
+      changes to take effect by clicking Restart Now , or click × to restart later.","You can control the formats that are used for dates, times, numbers,
+  currency, and measurement to match the local customs of your region.",1
+279,Starting Contacts for the first time,More Information,Contacts — Access your contacts.,More Information,0
+280,Simulate a right mouse click,More Information,"Mobility impairments <st> Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+281,Simulate a right mouse click,Simulate a right mouse click,"Open the Activities overview and
+      start typing Universal Access . <st> Click on Universal Access to open the panel. <st> Press Click Assist in the Pointing & Clicking section. <st> Switch Simulated Secondary Click to ON .","You can right-click by holding down the left mouse button. This is useful
+  if you find it difficult to move your fingers individually on one hand, or if
+  your pointing device only has a single button.",1
+282,Print to file,More Information,"Printing — Local setup , order and collate , two-sided and multi-page …",More Information,0
+283,Print to file,To print to file:,"Open the print dialog by pressing Ctrl + P . <st> Select Print to File under Printer in the General tab. <st> To change the default filename and where the file is saved to, click
+      the filename below the printer selection. Click Select once you have finished choosing. <st> PDF is the default file type for the document. If you want
+      to use a different Output format , select either PostScript or SVG . <st> Choose your other page preferences. <st> Press Print to save the file.",To print to file:,1
+284,Print envelopes,More Information,Different paper sizes and layouts,More Information,0
+285,Test the performance of your hard disk,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+286,Test the performance of your hard disk,Test the performance of your hard disk,"Open Disks from the Activities overview. <st> Choose the disk from the list in the left pane. <st> Click the menu button and select Benchmark disk… from the
+      menu. <st> Click Start Benchmark… and adjust the Transfer
+      Rate and Access Time parameters as desired. <st> Click Start Benchmarking to test how fast data can be read
+      from the disk. Administrative
+      privileges may be required. Enter your password, or the password
+      for the requested administrator account. If Perform write-benchmark is checked, the benchmark
+        will test how fast data can be read from and written to the disk. This
+        will take longer to complete.",To test the speed of your hard disk:,1
+287,Change the resolution or rotation of the screen,More Information,"Display & screen — Background , size and rotation ,
+      brightness…",More Information,0
+288,Change the resolution or rotation of the screen,See Also,Why do things look fuzzy/pixelated on my screen? — The screen resolution may be set incorrectly.,See Also,0
+289,Change the resolution or rotation of the screen,Change the resolution or rotation of the screen,"Open the Activities overview and
+      start typing Displays . <st> Click on Displays to open the panel. <st> If you have multiple displays and they are not mirrored, you can have
+      different settings on each display. Select a display in the preview
+      area. <st> Select the resolution and rotation. <st> Click Apply . The new settings will be applied for 20
+      seconds before reverting back. That way, if you cannot see anything with
+      the new settings, your old settings will be automatically restored. If
+      you are happy with the new settings, click Keep Changes .",rotation,1
+290,Change the desktop and lock screen backgrounds,Change the desktop and lock screen backgrounds,"Select Wallpapers to use one of the many professional
+          background images that ship with GNOME. Some wallpapers change
+          throughout the day. These wallpapers have a small clock icon in the
+          bottom-right corner. <st> Select Pictures to use one of your own photos from your Pictures folder. Most photo management applications
+          store photos there. If you would like to use an image that is not in
+          your Pictures folder, either use Files by right-clicking
+          on the image file and selecting Set as Wallpaper , or Image Viewer by opening the image file, clicking the
+          menu button in the titlebar and selecting Set as
+          Wallpaper . <st> Select Colors to just use a flat color.",There are three choices displayed on top:,0
+291,Change the desktop and lock screen backgrounds,More Information,"Display & screen — Background , size and rotation ,
+      brightness…",More Information,0
+292,Change the desktop and lock screen backgrounds,See Also,A tutorial on changing the wallpaper,See Also,0
+293,Change the desktop and lock screen backgrounds,Change the desktop and lock screen backgrounds,"Open the Activities overview and
+      start typing Background . <st> Click on Background to open the panel. <st> Select the Background or Lock Screen . <st> There are three choices displayed on top: Select Wallpapers to use one of the many professional
+          background images that ship with GNOME. Some wallpapers change
+          throughout the day. These wallpapers have a small clock icon in the
+          bottom-right corner. Select Pictures to use one of your own photos from your Pictures folder. Most photo management applications
+          store photos there. If you would like to use an image that is not in
+          your Pictures folder, either use Files by right-clicking
+          on the image file and selecting Set as Wallpaper , or Image Viewer by opening the image file, clicking the
+          menu button in the titlebar and selecting Set as
+          Wallpaper . Select Colors to just use a flat color. <st> Select Wallpapers to use one of the many professional
+          background images that ship with GNOME. Some wallpapers change
+          throughout the day. These wallpapers have a small clock icon in the
+          bottom-right corner. <st> Select Pictures to use one of your own photos from your Pictures folder. Most photo management applications
+          store photos there. If you would like to use an image that is not in
+          your Pictures folder, either use Files by right-clicking
+          on the image file and selecting Set as Wallpaper , or Image Viewer by opening the image file, clicking the
+          menu button in the titlebar and selecting Set as
+          Wallpaper . <st> Select Colors to just use a flat color. <st> The settings are applied immediately. <st> Switch to an empty
+      workspace to view your entire desktop.","You can change the image used for your backgrounds or set it to be a
+  solid color.",1
+294,Sound problems,More Information,"Hardware problems <st> Basic sound — Volume , speakers and headphones , microphones …",More Information,0
+295,Enable or block firewall access,More Information,"Keeping safe on the internet — Antivirus software , basic firewalls , firewall ports …",More Information,0
+296,Enable or block firewall access,See Also,"Commonly-used network ports — You need to specify the right network port to enable/disable network
+    access for a program with your firewall.",See Also,0
+297,Enable or block firewall access,Enable or block firewall access,"Go to Activities in the top left corner of the screen and
+      start your firewall application. You may need to install a firewall
+      manager yourself if you can’t find one (for example, Firestarter or
+      GUFW). <st> Open or disable the port for your network service, depending on
+      whether you want people to be able to access it or not. Which port you
+      need to change will depend on the
+      service . <st> Save or apply the changes, following any additional instructions given
+      by the firewall tool.","network
+  port",1
+298,Connect to a wired (Ethernet) network,More Information,"Wired Networking — Wired internet connections , Fixed IP addresses …",More Information,0
+299,How do I calibrate my printer?,How do I calibrate my printer?,Using a photospectrometer device like the Pantone ColorMunki <st> Downloading a printing a reference file from a color company,"
+    There are two ways to profile a printer device:
+  ",0
+300,How do I calibrate my printer?,More Information,Calibration,More Information,0
+301,How do I calibrate my printer?,See Also,"How do I calibrate my camera? — Calibrating your camera is important to capture accurate colors. <st> How do I calibrate my scanner? — Calibrating your scanner is important to capture accurate colors. <st> How do I calibrate my screen? — Calibrating your screen is important to display accurate
+    colors.",See Also,0
+302,How do I import color profiles?,More Information,Color profiles,More Information,0
+303,How do I import color profiles?,See Also,How do I assign profiles to devices? — Look in Settings ▸ Color to add a color profile for your screen. <st> What is a color profile? — A color profile is a simple file that expresses a color space or device response.,See Also,0
+304,How do I import color profiles?,How do I import color profiles?,"Open the Activities overview and
+      start typing Settings . <st> Click on Settings . <st> Click Devices in the sidebar. <st> Click Color in the sidebar to open the panel. <st> Select your device. <st> Click Add profile to select an existing profile or import
+      a new profile. <st> Press Add to confirm your selection.",Color,1
+305,Change the paper size when printing,Change the paper size when printing,Portrait <st> Landscape <st> Reverse portrait <st> Reverse landscape,Orientation,0
+306,Change the paper size when printing,More Information,Different paper sizes and layouts,More Information,0
+307,Change the paper size when printing,Change the paper size when printing,"Open the print dialog by pressing Ctrl + P . <st> Select the Page Setup tab. <st> Under the Paper column, choose your Paper size from the drop-down list. <st> Click Print to print your document.","If you want to change the paper size of your document (for example, print
+  a US Letter-sized PDF on A4 paper), you can change the printing format for
+  the document.",1
+308,Share files by email,More Information,"More file-related tasks <st> Sharing — Desktop sharing , Share files by email , Media sharing …",More Information,0
+309,Share files by email,See Also,"Browse files on a server or network share — View and edit files on another computer over FTP, SSH, Windows
+    shares, or WebDAV. <st> Send files to a Bluetooth device — Share files to Bluetooth devices such as your phone.",See Also,0
+310,Share files by email,To share a file by email:,"Open the Files application from the Activities overview. <st> Locate the file you want to transfer. <st> Right-click the file and select Send to… . An email compose
+      window will appear with the file attached. <st> Click To to choose a contact, or enter an email address
+  where you want to send the file. Fill in the Subject and the body
+  of the message as required and click Send .",To share a file by email:,1
+311,The laptop fan is always running,More Information,Power problems — Troubleshoot problems with power and batteries.,More Information,0
+312,Delete a user account,More Information,Manage user accounts,More Information,0
+313,Delete a user account,See Also,"Add a new user account — Add new users so that other people can log in to the computer. <st> How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system.",See Also,0
+314,Delete a user account,Delete a user account,"Open the Activities overview and
+      start typing Users . <st> Click Users to open the panel. <st> Press Unlock in the top right corner and
+      type in your password when prompted. <st> Select the user that you want to delete and press the - button, below the list of accounts on the
+      left, to delete that user account. <st> Each user has their own home folder for their files and settings. You
+      can choose to keep or delete the user’s home folder. Click Delete
+      Files if you are sure they will not be used anymore and you need to
+      free up disk space. These files are permanently deleted. They cannot be
+      recovered. You may want to back up the files to an external storage device
+      before deleting them.",administrator privileges,1
+315,Video calls,Applications which support video calls include,Empathy <st> Skype <st> Ekiga,Applications which support video calls include,0
+316,Video calls,More Information,"Chat & Social Networking — Chat on any network using Empathy , make video calls , install skype",More Information,0
+317,Video calls,See Also,"How can I use Skype on Ubuntu? — Skype is proprietary software and must be installed manually
+    on Ubuntu <st> Instant messaging on Ubuntu — With Empathy you can chat, call and video call with friends
+      and colleagues on a variety of networks",See Also,0
+318,Share your desktop,More Information,"Sharing — Desktop sharing , Share files by email , Media sharing … <st> Sharing Settings — Bluetooth sharing , Personal file sharing , Screen sharing , Media sharing …",More Information,0
+319,Share your desktop,Share your desktop,"Open the Activities overview and
+      start typing Sharing . <st> Click on Sharing to open the panel. <st> If Sharing is OFF , switch it to ON . If the text below Computer Name allows
+      you to edit it, you can change the name your computer displays on the network. <st> Select Screen Sharing . <st> To let others view your desktop, switch Screen Sharing to ON . This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen. <st> To let others interact with your desktop, switch Allow Remote Control to ON . This may allow the
+      other person to move your mouse, run applications, and browse files on
+      your computer, depending on the security settings which you are currently
+      using. This option is enabled by default when Screen Sharing is ON .",Install Vino,1
+320,Share your desktop,Stop sharing your desktop,"Open the message tray by pressing Super + M , or by moving your mouse
+      pointer to the very bottom of your screen. <st> Click on the Desktop icon in the Message Tray . This will open the Sharing panel. <st> Select Screen Sharing . <st> Toggle the Screen Sharing slider to Off .",notification icon,1
+321,Create a wireless hotspot,More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+322,Create a wireless hotspot,Create a wireless hotspot,"Open the system menu from the right
+    side of the top bar. <st> Select Wi-Fi Not Connected or the name of the wireless network to which
+    you are already connected. The Wi-Fi section of the menu will expand. <st> Click Wi-Fi Settings . <st> Click the Use as Hotspot… button. <st> If you are already connected to a wireless network, you will be
+  asked if you want to disconnect from that network. A single wireless adapter
+  can connect to or create only one network at a time. Click Turn On to confirm.","You can use your computer as a wireless hotspot. This allows other devices
+  to connect to you without a separate network, and allows you to share an
+  internet connection you’ve made with another interface, such as to a wired
+  network or over the cellular network.",1
+323,Why does my computer turn off when I close the lid?,More Information,"Power & battery — Battery status , suspend , screen dimming …",More Information,0
+324,Why does my computer turn off when I close the lid?,See Also,What happens when I suspend my computer? — Suspend sends your computer to sleep so it uses less power. <st> Why does my computer not turn back on after I suspended it? — Some computer hardware causes problems with suspend.,See Also,0
+325,Why does my computer turn off when I close the lid?,Stop the computer from suspending when the lid is closed,Open the Activities overview and start typing Tweaks . <st> Click Tweaks to open the application. <st> Click the Power tab. <st> Switch Suspend when laptop lid is closed to OFF . <st> Close the Tweaks window.,"Be very careful if you change this setting. Some laptops can overheat
+    if they are left running with the lid closed, especially if they are in
+    a confined place like a backpack.",1
+326,What’s the difference between calibration and characterization?,What’s the difference between calibration and characterization?,Changing controls or internal settings that it has <st> Applying curves to its color channels,"
+    Many people are initially confused about the difference between calibration
+    and characterization.
+    Calibration is the process of modifying the color behavior of a device.
+    This is typically done using two mechanisms:
+  ",0
+327,What’s the difference between calibration and characterization?,More Information,Calibration,More Information,0
+328,Click and move mouse pointer using the keypad,More Information,"Mobility impairments <st> Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+329,Click and move mouse pointer using the keypad,Click and move mouse pointer using the keypad,"Open the Activities overview and
+      start typing Universal Access . You can access the Activities overview by pressing on it,
+      by moving your mouse pointer against the top-left corner of the screen,
+      using Ctrl + Alt + Tab followed by Enter or using Super . <st> Click on Universal Access to open the panel. <st> Use the up and down arrow keys to select Mouse Keys in the Pointing & Clicking section then press Enter to
+      switch Mouse Keys to On . <st> Make sure that Num Lock is turned off. You will now be able
+      to move the mouse pointer using the keypad.",mouse keys,1
+330,Choose or disable the alert sound,More Information,"Basic sound — Volume , speakers and headphones , microphones …",More Information,0
+331,Choose or disable the alert sound,See Also,"Flash the screen for alert sounds — Enable visual alerts to flash the screen or window when an
+    alert sound is played.",See Also,0
+332,Choose or disable the alert sound,Choose or disable the alert sound,"Open the Activities overview and
+      start typing Sound . <st> Click on Sound to open the panel. <st> In the Sound Effects tab, select an alert sound. Each sound
+      will play when you click on it so you can hear how it sounds.","Your computer will play a simple alert sound for certain types of messages
+  and events. You can choose different sound clips for alerts, set the alert
+  volume independently of your system volume, or disable alert sounds
+  entirely.",1
+333,Find a lost window,Find a lost window,"Open the Activities overview. If the missing window is on
+      the current workspace , it
+      will be shown here in thumbnail. Simply click the thumbnail to redisplay
+      the window, or <st> Click different workspaces in the workspace selector at the
+      right-hand side of the screen to try to find your window, or <st> Right-click the application in the dash and its open windows will be
+      listed. Click the window in the list to switch to it.",Activities,0
+334,Find a lost window,Find a lost window,"Press Super + Tab to display the window switcher .
+      Continue to hold down the Super key and press Tab to cycle through the open windows, or Shift + Tab to cycle backwards. <st> If an application has multiple open windows, hold down Super and press ` (or the key above Tab )
+      to step through them.",Using the window switcher:,0
+335,Find a lost window,More Information,Working with windows,More Information,0
+336,How do I test if color management is working correctly?,More Information,Problems,More Information,0
+337,How do I test if color management is working correctly?,See Also,Where do I get color profiles? — Color profiles are provided by vendors and can be generated yourself.,See Also,0
+338,How do I test if color management is working correctly?,How do I test if color management is working correctly?,"Open the Activities overview and
+      start typing Settings . <st> Click on Settings . <st> Click Devices in the sidebar. <st> Click Color in the sidebar to open the panel. <st> Select the device for which you want to add a profile. You may wish to
+      make a note of which profile is currently being used. <st> Click Add profile to select a test profile, which should be
+      at the bottom of the list. <st> Press Add to confirm your selection. <st> To revert to your previous profile, select the device in the Color panel, then select the profile that you were using
+      before you tried one of the test profiles and press Enable to
+      use it again.","This will turn the screen blue and tests if the calibration curves are
+      being sent to the display.",1
+339,How do I calibrate my screen?,More Information,Calibration,More Information,0
+340,How do I calibrate my screen?,See Also,How do I calibrate my camera? — Calibrating your camera is important to capture accurate colors. <st> How do I calibrate my printer? — Calibrating your printer is important to print accurate colors. <st> How do I calibrate my scanner? — Calibrating your scanner is important to capture accurate colors.,See Also,0
+341,How do I calibrate my screen?,How do I calibrate my screen?,"Make sure your calibration device is connected to your computer. <st> Open the Activities overview and
+      start typing Settings . <st> Click on Settings . <st> Click Devices in the sidebar. <st> Click Color in the sidebar to open the panel. <st> Select your screen. <st> Press Calibrate… to commence the
+      calibration.","You will need either a colorimeter or a spectrophotometer to do this. Both
+  devices are used to profile screens, but they work in slightly different
+  ways.",1
+342,Create a connection with a fixed IP address,More Information,"Wired Networking — Wired internet connections , Fixed IP addresses …",More Information,0
+343,Create a connection with a fixed IP address,See Also,Find your IP address — Knowing your IP address can help you troubleshoot network problems.,See Also,0
+344,Create a connection with a fixed IP address,To give your computer a fixed (static) IP address:,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> In the left pane, select the network connection that you want to have
+      a fixed address. If you plug in to the network with a cable, click Wired , then click the button in the lower right corner of
+      the panel. For a Wi-Fi connection, the button will be located next to the active network. <st> Click on IPv4 or IPv6 in the left pane
+      and change the Addresses to Manual . <st> Type in the IP Address and Gateway , as well as the appropriate Netmask . <st> In the DNS section, switch Automatic to OFF . Enter the IP address of a DNS server you want to use.
+      Enter additional DNS server addresses using the + button. <st> In the Routes section, switch Automatic to OFF . Enter the Address , Netmask , Gateway and Metric for a route you want to use.
+      Enter additional routes using the + button. <st> Click Apply . The network connection should now have a fixed
+      IP address.",To give your computer a fixed (static) IP address:,1
+345,Staying safe on the internet,Staying safe on the internet,"Phishing Scams (websites and emails that try to obtain sensitive
+      information through deception) <st> Forwarding malicious emails <st> Applications with malicious intent
+      (viruses) <st> Unauthorized remote/local network
+      access","Despite the measures taken to ensure that your installation of Linux is
+  secure, there are always vulnerabilities. As an average user on the internet
+  you can still be susceptible to:",0
+346,Staying safe on the internet,Staying safe on the internet,"Be wary of emails, attachments, or links that were sent from people
+      you do not know. <st> If a website’s offer is too good to be true, or asks for sensitive
+      information that seems unnecessary, then think twice about what
+      information you are submitting and the potential consequences if that
+      information is compromised by identity thieves or other criminals. <st> Be careful in providing root level permissions to any
+      application, especially ones that you have not used before or which are
+      not well-known. Providing anyone or anything with root level permissions
+      puts your computer at high risk to exploitation. <st> Make sure you are only running necessary remote-access services.
+      Having SSH or VNC running can be useful, but also leaves your computer
+      open to intrusion if not secured properly. Consider using a firewall to help protect your
+      computer from intrusion.","To stay safe online, keep in mind the following tips:",0
+347,Staying safe on the internet,More Information,"Networking terms & tips — Find your IP address , WEP & WPA security , MAC addresses , proxies …",More Information,0
+348,Repair a damaged filesystem,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+349,Repair a damaged filesystem,Check if a filesystem is damaged,"Open Disks from the Activities overview. <st> Select the disk containing the filesystem in question from the list of
+       storage devices on the left. If there is more than one volume on the
+       disk, select the volume which contains the filesystem. <st> In the toolbar underneath the Volumes section, click the
+    menu button. Then click Check Filesystem… . <st> Depending on how much data is stored in the filesystem a check may take
+       longer time. Confirm to start the action in the dialog that pops up. The action will not modify the filesystem but will unmount it if needed.
+      Be patient while the filesystem is checked. <st> After completion you will be notified whether the filesystem is damaged.
+       Note that in some cases even if the filesystem is undamaged it still
+       may need to be repaired to reset an internal ‘dirty’ marker.",Check if a filesystem is damaged,1
+350,Repair a damaged filesystem,Repair a filesystem,"Open Disks from the Activities overview. <st> Select the disk containing the filesystem in question from the list
+       of storage devices on the left. If there is more than one volume on
+       the disk, select the volume which contains the filesystem. <st> In the toolbar underneath the Volumes section, click the
+    menu button. Then click Repair Filesystem… . <st> Depending on how much data is stored in the filesystem a repair may take
+       longer time. Confirm to start the action in the dialog that pops up. The action will unmount the filesystem if needed. The repair action tries
+   to bring the filesystem into a consistent state and moves files which were
+   damaged in a special folder. Be patient while the filesystem is
+   repaired. <st> After completion you will be notified whether the filesystem could be
+       successfully repaired. In case of success it can be used again in the
+       normal way. If the filesystem could not be repaired, back it up by saving an image
+       of the volume to be able to retrieve important files later. This can
+       be done by mounting the image read-only or using forensic analysis tools
+       like sleuthkit . To make use of the volume again it has to be formatted with a new filesystem. All
+       data will be discarded.",Repair a filesystem,1
+351,Connect to a VPN,More Information,"Wired Networking — Wired internet connections , Fixed IP addresses … <st> Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+352,Connect to a VPN,Connect to a VPN,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> At the bottom of the list on the left, click the + button
+      to add a new connection. <st> Choose VPN in the interface list. <st> Choose which kind of VPN connection you have. <st> Fill in the VPN connection details, then press Add once you
+      are finished. <st> When you have finished setting-up the VPN, open the system menu from the right side of
+      the top bar, click VPN off and select Connect . You
+      may need to enter a password for the connection before it is established.
+      Once the connection is made, you will see a lock shaped icon in the top
+      bar. <st> Hopefully you will successfully connect to the VPN. If not, you may
+      need to double-check the VPN settings you entered. You can do this from
+      the Network panel that you used to create the connection.
+      Select the VPN connection from the list, then press the button to review the settings. <st> To disconnect from the VPN, click the system menu on the top bar and
+      click Turn Off under the name of your VPN connection.",To set up the VPN connection:,1
+353,Find your IP address,More Information,"Networking terms & tips — Find your IP address , WEP & WPA security , MAC addresses , proxies …",More Information,0
+354,Find your IP address,See Also,"Create a connection with a fixed IP address — Using a static IP address can make it easier to provide some network
+    services from your computer. <st> What is an IP address? — An IP Address is like a phone number for your computer.",See Also,0
+355,Find your IP address,Find your internal (network) IP address,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Choose which connection, Wi-Fi or Wired , from
+      the left pane. The IP address for a wired connection will be displayed on the
+      right. Click the button to see the IP address for the wireless network in the Details panel.",Find your internal (network) IP address,1
+356,Find your IP address,Find your external (internet) IP address,Visit whatismyipaddress.com . <st> The site will display your external IP address for you.,Find your external (internet) IP address,1
+357,Switch off unused wireless technologies,More Information,"Power & battery — Battery status , suspend , screen dimming …",More Information,0
+358,Switch off unused wireless technologies,See Also,Use less power and improve battery life — Tips to reduce the power consumption of your computer.,See Also,0
+359,Switch off unused wireless technologies,Switch off unused wireless technologies,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. <st> The Power Saving section contains switches for Wi-Fi , Mobile broadband , and Bluetooth .
+      Switch the unused services to OFF . Re-enable when needed by
+      switching to ON .","You can reduce battery use by switching off bluetooth, wi-fi or mobile
+  broadband when they are not in use.",1
+360,"
+    Create a startup disk
+  ",More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions … <st> Install & remove software — Install applications , remove applications , add repositories …",More Information,0
+361,"
+    Create a startup disk
+  ","
+    Create a startup disk
+  ","Open Startup Disk Creator via the Activities search bar. <st> If the ISO image is in your Download folder and there is just one ISO image, Startup Disk Creator will have selected it,
+        otherwise select the correct ISO image. <st> If your computer has just one USB flash drive, Startup Disk Creator will have selected it, otherwise select the correct drive. <st> Click Make Startup Disk . <st> Click Yes to confirm. The process should take ten minutes or less. <st> When the ""Installation Complete"" window opens click Quit .",To create a startup disk from an Ubuntu ISO image:,1
+362,Control which online services an account can be used to access,More Information,"Online accounts — Add an online account , Remove an account , Learn about services …",More Information,0
+363,Control which online services an account can be used to access,See Also,"Online services and applications — Applications can use the accounts created in Online
+    Accounts and the services they exploit. <st> Remove an account — Remove access to an online service provider from your
+    applications.",See Also,0
+364,Control which online services an account can be used to access,Control which online services an account can be used to access,"Open the Activities overview and
+      start typing Online Accounts . <st> Click on Online Accounts to open the panel. <st> Select the account which you want to change from the list on the
+      right. <st> A list of services that are available with this account will be
+      shown under Use for . See Online services and applications to see which applications access which services. <st> Switch off any of the services that you do not want to use.","You can disable some of the services that are provided by each online
+  account:",1
+365,Automatically lock your screen,More Information,"Privacy Settings — Screen lock , Usage history , Purge trash & temporary files …",More Information,0
+366,Automatically lock your screen,See Also,Lock the screen <st> The screen locks itself too quickly — Change how long to wait before locking the screen in the Privacy settings.,See Also,0
+367,Automatically lock your screen,"To set the length of time before your screen locks
+    automatically:","Open the Activities overview and
+      start typing Privacy . <st> Click on Privacy to open the panel. <st> Select Screen Lock . <st> Make sure Automatic Screen Lock is switched ON ,
+      then select a length of time from the drop-down list.","To set the length of time before your screen locks
+    automatically:",1
+368,Do I need to scan my emails for viruses?,More Information,"Email & email software — Default email apps , Should I scan for viruses? … <st> Keeping safe on the internet — Antivirus software , basic firewalls , firewall ports …",More Information,0
+369,Do I need to scan my emails for viruses?,See Also,"Do I need anti-virus software? — There are few Linux viruses, so you probably don’t need anti-virus
+    software.",See Also,0
+370,Get the most out of your laptop battery,Get the most out of your laptop battery,"Do not let the battery run all the way down. Always recharge before the battery gets very low, although most batteries have
+    built-in safeguards to prevent the battery running too low. Recharging when
+    it is only partially discharged is more efficient, but recharging when it
+    is only slightly discharged is worse for the battery. <st> Heat has a detrimental effect on the charging efficiency of the battery.
+    Do not let the battery get any warmer than it has to. <st> Batteries age even if you leave them in storage. There is little
+    advantage in buying a replacement battery at the same time as you get the
+    original battery — always buy replacements when you need them.","As laptop batteries age, they get worse at storing charge and their capacity
+gradually decreases. There are a few techniques that you can use to prolong
+their useful lifetime, although you should not expect a big difference.",0
+371,Get the most out of your laptop battery,More Information,"Power & battery — Battery status , suspend , screen dimming …",More Information,0
+372,Set screen blanking time,More Information,"Display & screen — Background , size and rotation ,
+      brightness… <st> Power saving settings <st> Screen problems — 
+      Troubleshoot screen and graphics problems.",More Information,0
+373,Set screen blanking time,See Also,The screen locks itself too quickly — Change how long to wait before locking the screen in the Privacy settings. <st> Why does my screen go dim after a while? — The screen will dim when the computer is idle in order to save power.,See Also,0
+374,Set screen blanking time,To set the screen blanking time:,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. <st> Use the Blank screen drop-down list under Power
+      Saving to set the time until the screen blanks, or disable the blanking
+      completely.",To set the screen blanking time:,1
+375,Add an account,More Information,"Online accounts — Add an online account , Remove an account , Learn about services …",More Information,0
+376,Add an account,Add an account,"Open the Activities overview and
+      start typing Online Accounts . <st> Click on Online Accounts to open the panel. <st> Select an account from the list on the right. <st> Select the type of account which you want to add. <st> A small website window or dialog will open where you can enter your
+      online account credentials. For example, if you are setting up a Google
+      account, enter your Google username and password. Some providers allow
+      you to create a new account from the login dialog. <st> If you have entered your credentials correctly, you will be prompted
+      to allow GNOME access to your online account. Authorize access to
+      continue. <st> All services that are offered by an account provider will be enabled
+      by default. Switch individual services to OFF to disable them.","Adding an account will help link your online accounts with your GNOME
+  desktop. Thus, your email program, chat program and other related
+  applications will be set up for you.",1
+377,Mouse reacts with delay before it starts working,More Information,Common mouse problems,More Information,0
+378,The screen locks itself too quickly,More Information,"Display & screen — Background , size and rotation ,
+      brightness… <st> Screen problems — 
+      Troubleshoot screen and graphics problems.",More Information,0
+379,The screen locks itself too quickly,See Also,"Automatically lock your screen — Prevent other people from using your desktop when you
+    go away from your computer. <st> Lock the screen <st> Set screen blanking time — Change the screen blanking time to save power.",See Also,0
+380,The screen locks itself too quickly,The screen locks itself too quickly,"Open the Activities overview and
+      start typing Privacy . <st> Click on Privacy to open the panel. <st> Press on Screen Lock . <st> If Automatic Screen Lock is on, you can change the value
+      in the Lock screen after blank for drop-down list.",To wait a longer period before the screen is automatically locked:,1
+381,Views preferences in Files,More Information,File manager preferences — View and set preferences for the file browser.,More Information,0
+382,Change the date and time,More Information,"Date & time — Set date and time , world clocks , timezone , calendar and appointments …",More Information,0
+383,Change the date and time,Change the date and time,"Open the Activities overview and start typing Date & Time . <st> Click on Date & Time to open the panel. <st> If you have Automatic Date & Time set to ON ,
+      your date and time should update automatically if you have an internet
+      connection. To update your date and time manually, set this to OFF . <st> Click Date & Time , then adjust the time and date. <st> You can change how the hour is displayed by selecting 24-hour or AM/PM for Time Format .","If the date and time displayed on the top bar are incorrect or in the
+  wrong format, you can change them:",1
+384,Send files to a Bluetooth device,More Information,"Bluetooth — Connect , send files , turn on and off … <st> Sharing — Desktop sharing , Share files by email , Media sharing …",More Information,0
+385,Send files to a Bluetooth device,See Also,"Share files by email — Easily transfer files to your email contacts from the file
+    manager.",See Also,0
+386,Send files to a Bluetooth device,Send files to a Bluetooth device,"Open the Activities overview and
+      start typing Bluetooth . <st> Click on Bluetooth to open the panel. <st> Make sure Bluetooth is enabled: the switch in the titlebar should be
+      set to ON . <st> In the Devices list, select the device to which to send the
+      files. If the desired device is not shown as Connected in the
+      list, you need to connect to it. A panel specific to the external device appears. <st> Click Send Files… and the file chooser will appear. <st> Choose the file you want to send and click Select . To send more than one file in a folder, hold down Ctrl as
+      you select each file. <st> The owner of the receiving device usually has to press a button to
+      accept the file. The Bluetooth File Transfer dialog will show
+      the progress bar. Click Close when the transfer is
+      complete.","You can send files to connected Bluetooth devices, such as some mobile
+  phones or other computers. Some types of devices do not allow the transfer
+  of files, or specific types of files. You can send files using the Bluetooth
+  settings window.",1
+387,"I’ve entered the correct password, but I still can’t connect","I’ve entered the correct password, but I still can’t connect","Double-check that you have the correct password Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong. <st> Try the hex or ASCII pass key The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct wireless security option when asked for your password (for example, select WEP 40/128-bit Key if you’re typing the 40-character pass key for a WEP-encrypted connection). <st> Try turning your wireless card off and then on again Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see Wireless network troubleshooter for more information. <st> Check that you’re using the correct type of wireless security When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options. <st> Check that your wireless card is properly supported Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different firmware ). See Wireless network troubleshooter for more information.",wireless password,0
+388,"I’ve entered the correct password, but I still can’t connect",More Information,"Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+389,Use your mouse left-handed,More Information,"Mouse — Left-handed , speed and sensitivity , touchpad clicking and scrolling …",More Information,0
+390,Use your mouse left-handed,Use your mouse left-handed,"Open the Activities overview and
+      start typing Mouse & Touchpad . <st> Click on Mouse & Touchpad to open the panel. <st> In the General section, switch Primary button to Right .","You can swap the behavior of the left and right buttons on your
+  mouse or touchpad to make it more comfortable for left-handed use.",1
+391,Remove an account,More Information,"Online accounts — Add an online account , Remove an account , Learn about services …",More Information,0
+392,Remove an account,See Also,"Control which online services an account can be used to access — Some online accounts can be used to access multiple services (like
+    calendar and email). You can control which of these services can be used by
+    applications.",See Also,0
+393,Remove an account,Remove an account,"Open the Activities overview and
+      start typing Online Accounts . <st> Click on Online Accounts to open the panel. <st> Select the account which you wish to remove. <st> Click the - button in the lower-left corner of the
+      window. <st> Click Remove in the confirmation dialog.","How to revoke the authorization depends on the service provider. Check
+    your settings on the provider’s website for authorized or connected apps
+    or sites. Look for an app called “GNOME” and remove it.",1
+394,Why does my computer not turn back on after I suspended it?,More Information,"Power problems — Troubleshoot problems with power and batteries. <st> Screen problems — 
+      Troubleshoot screen and graphics problems.",More Information,0
+395,Why does my computer not turn back on after I suspended it?,See Also,"I have no wireless network when I wake up my computer — Some wireless devices have problems handling when your computer is
+    suspended and does not resume properly. <st> What happens when I suspend my computer? — Suspend sends your computer to sleep so it uses less power. <st> What is a driver? — A hardware/device driver allows your computer to use devices that are
+    attached to it. <st> Why does my computer turn off when I close the lid? — Laptops go to sleep when you close the lid, in order to save
+    power.",See Also,0
+396,Switch between workspaces,Using the keyboard:,"Press Super + Page Up or Ctrl + Alt + Up to move to
+    the workspace shown above the current workspace in the workspace selector. <st> Press Super + Page Down or Ctrl + Alt + Down to move to the
+    workspace shown below the current workspace in the workspace selector.",Using the keyboard:,0
+397,Switch between workspaces,More Information,Working with workspaces,More Information,0
+398,Switch between workspaces,See Also,"What is a workspace, and how will it help me? — Workspaces are a way of grouping windows on your desktop.",See Also,0
+399,Switch between workspaces,Using the mouse:,"Open the Activities overview. <st> Click on a workspace in the workspace
+  selector on the right side of the screen to view the open windows on
+  that workspace. <st> Click on any window thumbnail to activate the workspace.",Using the mouse:,1
+400,My computer will not turn on,More Information,"Power problems — Troubleshoot problems with power and batteries. <st> Screen problems — 
+      Troubleshoot screen and graphics problems.",More Information,0
+401,"
+    Create fun photos and videos with your webcam
+  ",More Information,Videos,More Information,0
+402,Print a booklet,More Information,Different paper sizes and layouts,More Information,0
+403,Print a booklet,Print a booklet,"Create a LibreOffice document with the number (1-3) of
+      blank pages needed. <st> Export the blank pages to a PDF by choosing File ▸ Export as PDF… . <st> Merge the blank pages with your PDF document using PDF-Shuffler or PDF Mod , placing the blank pages at
+      the end.","If the number of pages in your PDF document is not a multiple of 4, you
+  should add the appropriate number of blank pages (1,2 or 3) to make it a
+  multiple of 4. To do so, you can:",1
+404,Print only certain pages,More Information,Different paper sizes and layouts,More Information,0
+405,Print only certain pages,Print only certain pages,"Open the print dialog by pressing Ctrl + P . <st> In the General tab, choose Pages from the Range section. <st> Type the numbers of the pages you want to print in the text box,
+    separated by commas. Use a dash to denote a range of pages.",To only print certain pages from the document:,1
+406,Set the default printer,More Information,Set up a printer,More Information,0
+407,Set the default printer,See Also,"How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system. <st> Set up a local printer — Set up a printer that is connected to your computer.",See Also,0
+408,Set the default printer,Set the default printer,"Open the Activities overview and
+      start typing Printers . <st> Click Printers . <st> Select your desired default printer from the list of available
+      printers. <st> Click the Unlock button in the top-right corner and enter
+      your password. <st> Select the Default printer checkbox.",administrative privileges,1
+409,Connect your computer to a Bluetooth device,More Information,"Bluetooth — Connect , send files , turn on and off …",More Information,0
+410,Connect your computer to a Bluetooth device,See Also,Control sharing over Bluetooth — Allow files to be uploaded to your computer over Bluetooth. <st> Disconnect a Bluetooth device — Remove a device from the list of Bluetooth devices.,See Also,0
+411,Connect your computer to a Bluetooth device,Connect your computer to a Bluetooth device,"Open the Activities overview and
+      start typing Bluetooth . <st> Click on Bluetooth to open the panel. <st> Make sure Bluetooth is enabled: the switch at the top should be set to ON . With the panel open and the switch ON , your
+      computer will begin searching for devices. <st> Make the other Bluetooth device discoverable or visible and
+      place it within 5-10 meters (about 16-33 feet) of your computer. <st> Click the device in the Devices list. The panel for the
+      device will open. <st> If required, confirm the PIN on your other device. The device should
+      show you the PIN you see on your computer screen. Confirm the PIN on the
+      device (you may need to click Pair or Confirm ),
+      then click Confirm on the computer. You need to finish your entry within about 20 seconds on most devices,
+      or the connection will not be completed. If that happens, return to the
+      device list and start again. <st> The entry for the device in the Devices list will show a Connected status. <st> To edit the device, click on it in the Device list. You
+      will see a panel specific to the device. It may display additional
+      options applicable to the type of device to which you are connecting. <st> Close the panel once you have changed the settings.",pairing,1
+412,Use less power and improve battery life,General tips,"Suspend your computer when you
+    are not using it. This significantly reduces the amount of power it uses,
+    and it can be woken up very quickly. <st> Turn off the computer when you
+    will not be using it for longer periods. Some people worry that turning off
+    a computer regularly may cause it to wear out faster, but this is not the
+    case. <st> Use the Power panel in Settings to change your
+    power settings. There are a number of options that will help to save power:
+    you can automatically blank the screen after a certain time, reduce the screen
+    brightness , and have the computer automatically suspend if you have not
+    used it for a certain period of time. <st> Turn off any external devices (like printers and scanners) when you are
+    not using them.",General tips,0
+413,Use less power and improve battery life,"Laptops, netbooks, and other devices with batteries","Reduce the screen
+     brightness . Powering the screen accounts for a significant fraction
+     of a laptop power consumption. Most laptops have buttons on the keyboard (or a keyboard shortcut) that
+     you can use to reduce the brightness. <st> If you do not need an Internet connection for a little while, turn off
+     the wireless or Bluetooth cards. These devices work by broadcasting radio
+     waves, which takes quite a bit of power. Some computers have a physical switch that can be used to turn it off,
+     whereas others have a keyboard shortcut that you can use instead. You can
+     turn it on again when you need it.","Laptops, netbooks, and other devices with batteries",0
+414,Use less power and improve battery life,More advanced tips,"Reduce the number of tasks that are running in the background.
+     Computers use more power when they have more work to do. Most of your running applications do very little when you are not
+     actively using them. However, applications that frequently grab data from
+     the internet or play music or movies can impact your power consumption.",More advanced tips,0
+415,Use less power and improve battery life,More Information,"Power & battery — Battery status , suspend , screen dimming …",More Information,0
+416,Use less power and improve battery life,See Also,"Check the battery status — Display the status of the battery and connected devices. <st> Power off or restart <st> Set screen brightness — Change the screen brightness to make it more readable in bright
+    light. <st> Suspend <st> Switch off unused wireless technologies — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use. <st> What happens when I suspend my computer? — Suspend sends your computer to sleep so it uses less power. <st> Why do I have less battery life than I did on Windows/Mac OS? — Tweaks from the manufacturer and differing battery life estimates may
+    be the cause of this problem. <st> Why does my screen go dim after a while? — The screen will dim when the computer is idle in order to save power.",See Also,0
+417,I have no wireless network when I wake up my computer,More Information,Power problems — Troubleshoot problems with power and batteries.,More Information,0
+418,I have no wireless network when I wake up my computer,See Also,"What is a driver? — A hardware/device driver allows your computer to use devices that are
+    attached to it. <st> Why does my computer not turn back on after I suspended it? — Some computer hardware causes problems with suspend.",See Also,0
+419,I have no wireless network when I wake up my computer,I have no wireless network when I wake up my computer,"Open the Activities overview and
+      start typing Network . <st> Click on Network to open the panel. <st> Select Wi-Fi . <st> Switch the wireless OFF and then ON again. <st> If the wireless still does not work, switch ON the Airplane Mode and then switch it OFF again.","If this happens, try switching your wireless off and then back on
+  again:",1
+420,Other people can’t play the videos I made,Other people can’t play the videos I made,"Open Files from the Activities overview. <st> Right-click on the video file and select Properties . <st> Go to the Audio/Video or Video tab and look at
+      which Codec are listed under Video and Audio (if the video also has audio).",codecs,0
+421,Other people can’t play the videos I made,More Information,Videos,More Information,0
+422,What color measuring instruments are supported?,What color measuring instruments are supported?,"Gretag-Macbeth i1 Pro (spectrometer) <st> Gretag-Macbeth i1 Monitor (spectrometer) <st> Gretag-Macbeth i1 Display 1, 2 or LT (colorimeter) <st> X-Rite i1 Display Pro (colorimeter) <st> X-Rite ColorMunki Design or Photo (spectrometer) <st> X-Rite ColorMunki Create (colorimeter) <st> X-Rite ColorMunki Display (colorimeter) <st> Pantone Huey (colorimeter) <st> MonacoOPTIX (colorimeter) <st> ColorVision Spyder 2 and 3 (colorimeter) <st> Colorimètre HCFR (colorimeter)","
+    GNOME relies on the Argyll color management system to support
+    color instruments. Thus the following display measuring instruments
+    are supported:
+  ",0
+423,What color measuring instruments are supported?,What color measuring instruments are supported?,X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer) <st> X-Rite DTP22 Digital Swatchbook (spot type reflective spectrometer) <st> X-Rite DTP41 (spot and strip reading reflective spectrometer) <st> X-Rite DTP41T (spot and strip reading reflective spectrometer) <st> X-Rite DTP51 (spot reading reflective spectrometer),"
+    Thanks to Argyll there’s also a number of spot and strip reading
+    reflective spectrometers supported to help you calibrating and
+    characterizing your printers:
+  ",0
+424,What color measuring instruments are supported?,More Information,Calibration,More Information,0
+425,"What is a workspace, and how will it help me?","What is a workspace, and how will it help me?","In the Activities overview, move your cursor
+    to the right-most side of the screen. <st> A vertical panel will appear showing
+    workspaces in use, plus an empty workspace. This is the
+    workspace selector. <st> To add a workspace, drag and drop a window from an existing workspace
+    onto the empty workspace in the workspace selector. This workspace now
+    contains the window you have dropped,
+    and a new empty workspace will appear below it. <st> To remove a workspace, simply close all of its windows or move them to
+    other workspaces.",Using workspaces:,0
+426,"What is a workspace, and how will it help me?",More Information,Working with workspaces,More Information,0
+427,"What is a workspace, and how will it help me?",See Also,"Move a window to a different workspace — Go to the Activities overview and drag the window to a
+    different workspace. <st> Switch between workspaces — Use the workspace selector.",See Also,0
+428,Clearing a paper jam,More Information,"Printer problems — Undetected printers, paper jams, print-outs that look wrong…",More Information,0
+429,Manage volumes and partitions,More Information,"Disks & storage — Disk space , performance , problems , volumes and partitions …",More Information,0
+430,Manage volumes and partitions,View and manage volumes and partitions using the disk utility,"Open the Activities overview and start Disks . <st> In the list of storage devices on the left, you will find hard disks,
+    CD/DVD drives, and other physical devices. Click the device you want to
+    inspect. <st> The right pane provides a visual breakdown of the volumes and
+    partitions present on the selected device. It also contains a variety of
+    tools used to manage these volumes. Be careful: it is possible to completely erase the data on your disk with
+    these utilities.","You can check and modify your computer’s storage volumes with the disk
+ utility.",1
+431,Change your login screen photo,Change your login screen photo,"If you would rather use a picture you already have on your
+          computer, click Browse for more pictures… . <st> If you have a webcam, you can take a new login photo right now by
+          clicking Take a photo… . Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click Take Another Picture to try again, or Cancel to give up.","Click the picture next to your name. A drop-down gallery will be shown
+      with some stock login photos. If you like one of them, click it to use it
+      for yourself.",0
+432,Change your login screen photo,More Information,Manage user accounts,More Information,0
+433,Change your login screen photo,See Also,"How do administrative privileges work? — You need administrative privileges to change important parts of your
+    system.",See Also,0
+434,Change your login screen photo,Change your login screen photo,"Open the Activities overview and
+      start typing Users . <st> Click Users to open the panel. <st> If you want to edit a user other than yourself, press Unlock in the top right corner and type in your
+      password when prompted. <st> Click the picture next to your name. A drop-down gallery will be shown
+      with some stock login photos. If you like one of them, click it to use it
+      for yourself. If you would rather use a picture you already have on your
+          computer, click Browse for more pictures… . If you have a webcam, you can take a new login photo right now by
+          clicking Take a photo… . Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click Take Another Picture to try again, or Cancel to give up. <st> If you would rather use a picture you already have on your
+          computer, click Browse for more pictures… . <st> If you have a webcam, you can take a new login photo right now by
+          clicking Take a photo… . Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click Take Another Picture to try again, or Cancel to give up.",administrator privileges,1
+435,Log in with a fingerprint,More Information,"Fingerprints & smart cards — Fingerprint readers ,
+
+    smart cards…",More Information,0
+436,Log in with a fingerprint,Record a fingerprint,"Open the Activities overview and
+      start typing Users . <st> Click on Users to open the panel. <st> Press on Disabled , next to Fingerprint Login to
+      add a fingerprint for the selected account. If you are adding the
+      fingerprint for a different user, you will first need to Unlock the panel. <st> Select the finger that you want to use for the fingerprint, then Next . <st> Follow the instructions in the dialog and swipe your finger at a moderate speed over your fingerprint reader. Once the computer
+      has a good record of your fingerprint, you will see a Done! message. <st> Select Next . You will see a confirmation message that
+      your fingerprint was saved successfully. Select Close to
+      finish.",administrator privileges,1
+437,Log in with a fingerprint,Check that your fingerprint works,"Save any open work, and then log
+      out . <st> At the login screen, select your name from the list. The password
+      entry form will appear. <st> Instead of typing your password, you should be able to swipe your
+      finger on the fingerprint reader.","Now check that your new fingerprint login works. If you register a
+  fingerprint, you still have the option to log in with your password.",1
+438,I cannot connect my Bluetooth device,More Information,Bluetooth problems,More Information,0
+439,I cannot connect my Bluetooth device,See Also,"What is a driver? — A hardware/device driver allows your computer to use devices that are
+    attached to it.",See Also,0
+440,Wireless network troubleshooter,Wireless network troubleshooter,Performing an initial check <st> Gathering information about your hardware <st> Checking your hardware <st> Attempting to create a connection to your wireless router <st> Performing a check of your modem and router,"We will proceed through the following steps to get your computer connected
+  to the internet:",0
+441,Wireless network troubleshooter,More Information,"Hardware problems <st> Wireless Networking — Connect to wifi , Hidden networks , Disconnecting …",More Information,0
+442,Wireless network troubleshooter,See Also,Connect to a wireless network — Get on the internet — wirelessly.,See Also,0
+443,Where to store your backup,Local and remote storage options,"USB memory key (low capacity) <st> Internal disk drive (high capacity) <st> External hard disk (typically high capacity) <st> Network-connected drive (high capacity) <st> File/backup server (high capacity) <st> Writable CDs or DVDs (low/medium capacity) <st> Online backup service
+     ( Amazon S3 , for example;
+     capacity depends on price)",Local and remote storage options,0
+444,Where to store your backup,More Information,"Back up your important files — Why, what, where and how of backups.",More Information,0
+445,Set up automatic suspend,More Information,Power saving settings,More Information,0
+446,Set up automatic suspend,See Also,Suspend <st> What happens when I suspend my computer? — Suspend sends your computer to sleep so it uses less power.,See Also,0
+447,Set up automatic suspend,Set up automatic suspend,"Open the Activities overview and start typing Power . <st> Click Power to open the panel. <st> In the Suspend & Power Button section, click Automatic suspend . <st> Choose On Battery Power or Plugged In , set the
+      switch to ON , and select a Delay . Both options can
+      be configured. On a desktop computer, there is one option labeled When Idle .","You can configure your computer to automatically suspend when idle.
+  Different intervals can be specified for running on battery or plugged in.",1
+448,File manager behavior preferences,Executable text files,Run executable text files when they are opened <st> View executable text files when they are opened <st> Ask each time,"When you open an executable text file, you can select from:",0
+449,File manager behavior preferences,See Also,Delete files and folders — Remove files or folders you no longer need.,See Also,0
+450,File manager behavior preferences,More Information,File manager preferences — View and set preferences for the file browser.,More Information,0
+451,File manager behavior preferences,Executable text files,"Navigate to the desired folder. <st> Select the desired file. <st> Right click on the file to open the context menu and select the desired
+    script to execute from the Scripts menu.",Scripts,1
+452,Control sharing over Bluetooth,More Information,"Bluetooth — Connect , send files , turn on and off … <st> Sharing — Desktop sharing , Share files by email , Media sharing … <st> Sharing Settings — Bluetooth sharing , Personal file sharing , Screen sharing , Media sharing …",More Information,0
+453,Control sharing over Bluetooth,See Also,Connect your computer to a Bluetooth device — Pair Bluetooth devices.,See Also,0
+454,Control sharing over Bluetooth,Allow files to be shared into your Downloads folder,"Open the Activities overview and
+      start typing Bluetooth . <st> Click on Bluetooth to open the panel. <st> Make sure that Bluetooth is switched on . <st> Bluetooth-enabled devices can send files to your Downloads folder only when the Bluetooth panel is
+      open.",Downloads,1
+455,Move a window to a different workspace,More Information,Working with workspaces,More Information,0
+456,Move a window to a different workspace,See Also,"What is a workspace, and how will it help me? — Workspaces are a way of grouping windows on your desktop.",See Also,0
+457,Move a window to a different workspace,Using the mouse:,"Open the Activities overview. <st> Click and drag the window toward the right of the screen. <st> The workspace selector will
+      appear. <st> Drop the window onto an empty
+      workspace. This workspace now contains the window you have dropped, and a
+      new empty workspace appears at the bottom of the workspace
+      selector .",Using the mouse:,1
+458,Move a window to a different workspace,Using the keyboard:,"Select the window that you want to move (for example, using the Super + Tab window switcher ). <st> Press Super + Shift + Page
+      Up to move the window to a workspace which is above the
+      current workspace on the workspace selector . Press Super + Shift + Page
+      Down to move the window to a workspace which is below the
+      current workspace on the workspace selector .",Using the keyboard:,1
+459,Commonly-used network ports,More Information,"Keeping safe on the internet — Antivirus software , basic firewalls , firewall ports …",More Information,0
+460,Commonly-used network ports,See Also,Enable or block firewall access — You can control which programs can access the network. This helps to keep your computer secure.,See Also,0
