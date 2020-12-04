@@ -1,4 +1,4 @@
-# ProcedureDetection-HandsOn
+# Procedure Detection Hands-On
 This repository contains all resources required for Procedure Detection Hands-on session. This is a binary classification problem to detect a list of sentences as procedure or not. We will learn to solve this problem by engineering features specific to the procedures or instructions in the procedure. 
 
 ## Data
