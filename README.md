@@ -15,3 +15,6 @@ python -m spacy download en_core_web_sm
 - All the code can be found in the Google colab notebook linked below.
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ghm2jTRoX7LxPNyeGUF8bguh9fse0CyY?usp=sharing)
+
+### FastText Feature Extraction
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dr5blHTQ5PPVfHIWGme4aBmVY9lLAK2H?usp=sharing)
