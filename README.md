@@ -9,6 +9,7 @@ This repository contains all resources required for Procedure Detection Hands-on
 ## Installation
 ```
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 ```
 
 - All the code can be found in the Google colab notebook linked below.
