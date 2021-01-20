@@ -18,3 +18,5 @@ python -m spacy download en_core_web_sm
 
 ### FastText Feature Extraction
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dr5blHTQ5PPVfHIWGme4aBmVY9lLAK2H?usp=sharing)
+
+Slides used in the hands-on can be found [here](https://www.slideshare.net/PoojaRao38/rvce-handson).
